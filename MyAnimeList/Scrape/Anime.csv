@@ -1,0 +1,736 @@
+title,rank,rating,popularity,members,types,episode,status,aired,premiered,producers,licensor,studio,source,genres,theme,demographic,duration,age,favorites
+
+Shingeki no Kyojin,109,8.53,1,3633574,TV,25,Finished Airing,"Apr 7, 2013 to Sep 29, 2013",Spring 2013,"['Production I.G', 'Dentsu', 'Mainichi Broadcasting System', 'Pony Canyon', 'Kodansha', 'Mad Box', 'Pony Canyon Enterprise']",Funimation,Wit Studio,Manga,"['Action', 'Award Winning', 'Drama', 'Suspense']",nan,Shounen,24 min. per ep.,R - 17+ (violence & profanity),159120
+
+Death Note,78,8.62,2,3609921,TV,37,Finished Airing,"Oct 4, 2006 to Jun 27, 2007",Fall 2006,"['VAP', 'Konami', 'Ashi Productions', 'Nippon Television Network', 'Shueisha']",VIZ Media,Madhouse,Manga,"['Supernatural', 'Suspense']",Psychological,Shounen,23 min. per ep.,R - 17+ (violence & profanity),163637
+
+Fullmetal Alchemist: Brotherhood,2,9.11,3,3076592,TV,64,Finished Airing,"Apr 5, 2009 to Jul 4, 2010",Spring 2009,"['Aniplex', 'Square Enix', 'Mainichi Broadcasting System', 'Studio Moriken']",Funimation,Bones,Manga,"['Action', 'Adventure', 'Drama', 'Fantasy']",Military,Shounen,24 min. per ep.,R - 17+ (violence & profanity),212633
+
+One Punch Man,126,8.50,4,2969883,TV,12,Finished Airing,"Oct 5, 2015 to Dec 21, 2015",Fall 2015,"['TV Tokyo', 'Bandai Visual', 'Lantis', 'Asatsu DK', 'Banpresto', 'Good Smile Company', 'Shueisha', 'JR East Marketing & Communications']",VIZ Media,Madhouse,manga,"['Action', 'Comedy']",nan,Seinen,24 min. per ep.,R - 17+ (violence & profanity),60936
+
+Sword Art Online,3084,7.20,5,2885687,TV,25,Finished Airing,"Jul 8, 2012 to Dec 23, 2012",Summer 2012,"['Aniplex', 'Genco', 'DAX Production', 'ASCII Media Works', 'Bandai Namco Games']",Aniplex of America,A-1 Pictures,novel,"['Action', 'Adventure', 'Fantasy', 'Romance']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,66027
+
+Boku no Hero Academia,702,7.91,6,2798365,TV,13,Finished Airing,"Apr 3, 2016 to Jun 26, 2016",Spring 2016,"['Dentsu', 'Mainichi Broadcasting System', 'Movic', 'TOHO animation', 'Shueisha']",Funimation,Bones,Manga,[],nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,52639
+
+Kimetsu no Yaiba,117,8.52,7,2679372,TV,26,Finished Airing,"Apr 6, 2019 to Sep 28, 2019",Spring 2019,"['Aniplex', 'Shueisha']",Aniplex of America,ufotable,Manga,"['Action', 'Award Winning', 'Fantasy']",Historical,Shounen,23 min. per ep.,R - 17+ (violence & profanity),85366
+
+Naruto,604,7.98,8,2641309,TV,220,Finished Airing,"Oct 3, 2002 to Feb 8, 2007",Fall 2002,"['TV Tokyo', 'Aniplex', 'Shueisha']",VIZ Media,Pierrot,Manga,"['Action', 'Adventure', 'Fantasy']",Martial Arts,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,74120
+
+Tokyo Ghoul,946,7.79,9,2631604,TV,12,Finished Airing,"Jul 4, 2014 to Sep 19, 2014",Summer 2014,"['Marvelous AQL', 'TC Entertainment', 'Shueisha']",Funimation,Pierrot,Manga,"['Action', 'Fantasy', 'Horror']",nan,Seinen,24 min. per ep.,R - 17+ (violence & profanity),48340
+
+Hunter x Hunter (2011),9,9.04,10,2563996,TV,148,Finished Airing,"Oct 2, 2011 to Sep 24, 2014",Fall 2011,"['VAP', 'Nippon Television Network', 'Shueisha']",VIZ Media,Madhouse,Manga,"['Action', 'Adventure', 'Fantasy']",nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,194551
+
+Kimi no Na wa.,24,8.85,11,2512425,Movie,1,Finished Airing,"Aug 26, 2016",nan,"['Toho', 'Sound Team Don Juan', 'Amuse', 'JR East Marketing & Communications', 'Kadokawa', 'voque ting']",Funimation,CoMix Wave Films,Original,"['Award Winning', 'Drama', 'Supernatural']",Romantic Subtext,nan,1 hr. 46 min.,PG-13 - Teens 13 or older,85104
+
+Shingeki no Kyojin Season 2,127,8.50,12,2480301,TV,12,Finished Airing,"Apr 1, 2017 to Jun 17, 2017",Spring 2017,"['Production I.G', 'Dentsu', 'Mainichi Broadcasting System', 'Pony Canyon', 'Kodansha', 'Techno Sound', 'Pony Canyon Enterprise']",Funimation,Wit Studio,Manga,"['Action', 'Drama', 'Suspense']",nan,Shounen,24 min. per ep.,R - 17+ (violence & profanity),20389
+
+Steins;Gate,3,9.08,13,2370025,TV,24,Finished Airing,"Apr 6, 2011 to Sep 14, 2011",Spring 2011,"['Frontier Works', 'Media Factory', 'Movic', 'AT-X', 'Kadokawa Pictures Japan', 'Nitroplus']",Funimation,White Fox,novel,"['Drama', 'Sci-Fi', 'Suspense']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,178883
+
+Boku no Hero Academia 2nd Season,424,8.13,14,2342839,TV,25,Finished Airing,"Apr 1, 2017 to Sep 30, 2017",Spring 2017,"['Dentsu', 'Yomiuri Telecasting', 'Movic', 'Sony Music Entertainment', 'TOHO animation', 'Shueisha']",Funimation,Bones,Manga,[],nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,17160
+
+Naruto: Shippuuden,287,8.25,15,2273568,TV,500,Finished Airing,"Feb 15, 2007 to Mar 23, 2017",Winter 2007,"['TV Tokyo', 'Aniplex', 'KSS', 'Rakuonsha', 'TV Tokyo Music', 'Shueisha']",VIZ Media,Pierrot,Manga,"['Action', 'Adventure', 'Fantasy']",Martial Arts,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,104367
+
+No Game No Life,464,8.09,16,2255209,TV,12,Finished Airing,"Apr 9, 2014 to Jun 25, 2014",Spring 2014,"['Frontier Works', 'Media Factory', 'Movic', 'AT-X']",Sentai Filmworks,Madhouse,novel,"['Comedy', 'Fantasy', 'Ecchi']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,47030
+
+Jujutsu Kaisen,65,8.66,17,2127807,TV,24,Finished Airing,"Oct 3, 2020 to Mar 27, 2021",Fall 2020,"['Mainichi Broadcasting System', 'TOHO animation', 'Shueisha', 'dugout', 'Sumzap']",VIZ Media,MAPPA,Manga,"['Action', 'Award Winning', 'Fantasy']",School,Shounen,23 min. per ep.,R - 17+ (violence & profanity),77964
+
+Shingeki no Kyojin Season 3,76,8.62,18,2125490,TV,12,Finished Airing,"Jul 23, 2018 to Oct 15, 2018",Summer 2018,"['Production I.G', 'Dentsu', 'Mainichi Broadcasting System', 'Pony Canyon', 'Kodansha', 'Techno Sound', 'Pony Canyon Enterprise']",Funimation,Wit Studio,Manga,"['Action', 'Drama']",nan,Shounen,23 min. per ep.,R - 17+ (violence & profanity),19235
+
+Koe no Katachi,18,8.94,19,2115909,Movie,1,Finished Airing,"Sep 17, 2016",nan,"['Shochiku', 'Pony Canyon', 'Kodansha', 'ABC Animation', 'Quaras']",Eleven Arts,Kyoto Animation,Manga,"['Award Winning', 'Drama']",Romantic Subtext,Shounen,2 hr. 10 min.,PG-13 - Teens 13 or older,81002
+
+Code Geass: Hangyaku no Lelouch,52,8.70,20,2097535,TV,25,Finished Airing,"Oct 6, 2006 to Jul 29, 2007",Fall 2006,"['Bandai Visual', 'Mainichi Broadcasting System', 'Bandai', 'Sony Music Entertainment', 'Bandai Namco Entertainment', 'Hakuhodo DY Media Partners']",Funimation,Sunrise,Original,"['Action', 'Award Winning', 'Drama', 'Sci-Fi']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),103280
+
+One Piece,56,8.68,21,2079426,TV,Unknown,Currently Airing,"Oct 20, 1999 to ?",Fall 1999,"['Fuji TV', 'TAP', 'Shueisha']",Funimation,Toei Animation,Manga,"['Action', 'Adventure', 'Fantasy']",nan,Shounen,24 min.,PG-13 - Teens 13 or older,188287
+
+Toradora!,469,8.09,22,2073236,TV,25,Finished Airing,"Oct 2, 2008 to Mar 26, 2009",Fall 2008,"['Genco', 'Starchild Records', 'Magic Capsule', 'Yomiuri Advertising', 'TV Tokyo Music']","NIS America, Inc.",J.C.Staff,novel,"['Drama', 'Romance']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,54895
+
+Shigatsu wa Kimi no Uso,67,8.65,23,2051259,TV,22,Finished Airing,"Oct 10, 2014 to Mar 20, 2015",Fall 2014,"['Aniplex', 'Dentsu', 'Kodansha', 'Fuji TV', 'Lawson HMV Entertainment', 'Kyoraku Industrial Holdings', 'Kansai Telecasting']",Aniplex of America,A-1 Pictures,Manga,"['Drama', 'Romance']",nan,Shounen,22 min. per ep.,PG-13 - Teens 13 or older,81918
+
+Re:Zero kara Hajimeru Isekai Seikatsu,295,8.24,24,2034118,TV,25,Finished Airing,"Apr 4, 2016 to Sep 19, 2016",Spring 2016,"['TV Tokyo', 'Media Factory', 'Kadokawa Shoten', 'AT-X', 'Magic Capsule', 'Memory-Tech', 'Hakuhodo DY Music & Pictures']",Funimation,White Fox,novel,"['Drama', 'Fantasy', 'Suspense']",nan,nan,25 min. per ep.,R - 17+ (violence & profanity),63363
+
+Noragami,633,7.96,25,2030378,TV,12,Finished Airing,"Jan 5, 2014 to Mar 23, 2014",Winter 2014,"['Avex Entertainment', 'Dentsu', 'Shochiku', 'Kodansha', 'Movic', 'Ai Addiction', 'Lawson HMV Entertainment', 'A-Sketch']",Funimation,Bones,Manga,"['Action', 'Fantasy']",Mythology,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,32114
+
+Boku no Hero Academia 3rd Season,508,8.06,26,2021708,TV,25,Finished Airing,"Apr 7, 2018 to Sep 29, 2018",Spring 2018,"['Dentsu', 'Yomiuri Telecasting', 'Movic', 'Sony Music Entertainment', 'TOHO animation', 'Shueisha']",Funimation,Bones,Manga,[],nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,12743
+
+Shingeki no Kyojin Season 3 Part 2,6,9.06,27,2011955,TV,10,Finished Airing,"Apr 29, 2019 to Jul 1, 2019",Spring 2019,"['Production I.G', 'Dentsu', 'Mainichi Broadcasting System', 'Pony Canyon', 'Kodansha', 'Techno Sound', 'Pony Canyon Enterprise']",Funimation,Wit Studio,Manga,"['Action', 'Drama']",nan,Shounen,23 min. per ep.,R - 17+ (violence & profanity),53794
+
+Angel Beats!,490,8.07,28,1973753,TV,13,Finished Airing,"Apr 3, 2010 to Jun 26, 2010",Spring 2010,"['Aniplex', 'Dentsu', 'Mainichi Broadcasting System', 'CBC Television', 'Movic', 'Visual Arts', 'ASCII Media Works']",Sentai Filmworks,P.A. Works,Original,"['Drama', 'Supernatural']",School,nan,24 min. per ep.,PG-13 - Teens 13 or older,47107
+
+Akame ga Kill!,1827,7.47,29,1948042,TV,24,Finished Airing,"Jul 7, 2014 to Dec 15, 2014",Summer 2014,"['Square Enix', 'TOHO animation']",Sentai Filmworks,White Fox,Manga,"['Action', 'Fantasy']",nan,Shounen,23 min. per ep.,R - 17+ (violence & profanity),27528
+
+Boku dake ga Inai Machi,234,8.31,30,1938390,TV,12,Finished Airing,"Jan 8, 2016 to Mar 25, 2016",Winter 2016,"['Aniplex', 'Dentsu', 'Kadokawa Shoten', 'Fuji TV', 'DAX Production', 'Kyoraku Industrial Holdings', 'Kansai Telecasting', 'Lawson', 'Kanetsu Investment', 'C-one']",Aniplex of America,A-1 Pictures,Manga,"['Mystery', 'Supernatural', 'Suspense']",nan,Seinen,23 min. per ep.,R - 17+ (violence & profanity),45644
+
+Nanatsu no Taizai,1196,7.68,31,1928659,TV,24,Finished Airing,"Oct 5, 2014 to Mar 29, 2015",Fall 2014,"['Aniplex', 'Dentsu', 'Mainichi Broadcasting System', 'Kodansha', 'Movic']",Funimation,A-1 Pictures,Manga,"['Action', 'Adventure', 'Fantasy']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,19040
+
+Mirai Nikki (TV),1981,7.43,32,1909357,TV,26,Finished Airing,"Oct 9, 2011 to Apr 15, 2012",Fall 2011,"['Lantis', 'Kadokawa Shoten', 'Rakuonsha', 'Kadokawa Pictures Japan', 'KlockWorx', 'chara-ani.com', '12 Diary Holders', 'Dwango', 'Sakura Create']",Funimation,asread.,Manga,"['Action', 'Supernatural', 'Suspense']",nan,Shounen,23 min. per ep.,R+ - Mild Nudity,29887
+
+Mob Psycho 100,128,8.49,33,1887785,TV,12,Finished Airing,"Jul 11, 2016 to Sep 27, 2016",Summer 2016,"['Warner Bros. Japan', 'KlockWorx', 'BS Fuji', 'Hakuhodo DY Music & Pictures', 'Shogakukan']",Funimation,Bones,manga,"['Action', 'Comedy', 'Supernatural']",Super Power,nan,24 min. per ep.,PG-13 - Teens 13 or older,43621
+
+Sword Art Online II,5538,6.70,34,1860381,TV,24,Finished Airing,"Jul 5, 2014 to Dec 20, 2014",Summer 2014,"['Aniplex', 'Genco', 'ASCII Media Works', 'Bandai Namco Games']",Aniplex of America,A-1 Pictures,novel,"['Action', 'Adventure', 'Fantasy', 'Romance']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,9147
+
+Ansatsu Kyoushitsu,471,8.09,35,1857118,TV,22,Finished Airing,"Jan 10, 2015 to Jun 20, 2015",Winter 2015,"['Dentsu', 'Studio Hibari', 'Fuji TV', 'DAX Production', 'BS Fuji', 'Avex Pictures', 'Shueisha']",Funimation,Lerche,Manga,"['Action', 'Comedy']",School,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,28120
+
+Ao no Exorcist,1724,7.50,36,1817234,TV,25,Finished Airing,"Apr 17, 2011 to Oct 2, 2011",Spring 2011,"['Aniplex', 'Dentsu', 'Mainichi Broadcasting System', 'Movic', 'Sakura Create', 'Shueisha']",Aniplex of America,A-1 Pictures,Manga,"['Action', 'Fantasy']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,16481
+
+Haikyuu!!,149,8.44,37,1814316,TV,25,Finished Airing,"Apr 6, 2014 to Sep 21, 2014",Spring 2014,"['Dentsu', 'Mainichi Broadcasting System', 'Movic', 'TOHO animation', 'Shueisha', 'Spacey Music Entertainment']",Sentai Filmworks,Production I.G,Manga,[],nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,69550
+
+Yakusoku no Neverland,114,8.52,38,1807796,TV,12,Finished Airing,"Jan 10, 2019 to Mar 29, 2019",Winter 2019,"['Aniplex', 'Dentsu', 'Fuji TV', 'Shueisha', 'CA-Cygames Anime Fund']",Aniplex of America,CloverWorks,Manga,"['Mystery', 'Sci-Fi', 'Suspense']",nan,Shounen,22 min. per ep.,R - 17+ (violence & profanity),31816
+
+Kono Subarashii Sekai ni Shukufuku wo!,434,8.12,39,1805426,TV,10,Finished Airing,"Jan 14, 2016 to Mar 17, 2016",Winter 2016,"['Half H.P Studio', 'Nippon Columbia', 'KlockWorx', 'Sony Music Communications', 'Toranoana', '81 Produce', 'Kadokawa Media House', 'Kadokawa']",Discotek Media,Studio Deen,novel,"['Adventure', 'Comedy', 'Fantasy']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,42627
+
+Bleach,722,7.90,40,1797637,TV,366,Finished Airing,"Oct 5, 2004 to Mar 27, 2012",Fall 2004,"['TV Tokyo', 'Aniplex', 'Dentsu', 'TV Tokyo Music', 'Studio Kelmadick', 'Shueisha']",VIZ Media,Pierrot,Manga,"['Action', 'Adventure', 'Fantasy']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,66262
+
+Shingeki no Kyojin: The Final Season,30,8.81,41,1760310,TV,16,Finished Airing,"Dec 7, 2020 to Mar 29, 2021",Winter 2021,"['Production I.G', 'Dentsu', 'Mainichi Broadcasting System', 'Pony Canyon', 'Kodansha', 'Techno Sound', 'Pony Canyon Enterprise']",Funimation,MAPPA,Manga,"['Action', 'Drama']",nan,Shounen,23 min. per ep.,R - 17+ (violence & profanity),50724
+
+Kiseijuu: Sei no Kakuritsu,208,8.34,42,1732776,TV,24,Finished Airing,"Oct 9, 2014 to Mar 26, 2015",Fall 2014,"['VAP', 'Kodansha', 'Nippon Television Network', 'Forecast Communications']",Sentai Filmworks,Madhouse,Manga,"['Action', 'Horror', 'Sci-Fi']",nan,Seinen,23 min. per ep.,R - 17+ (violence & profanity),32799
+
+Cowboy Bebop,39,8.75,43,1717840,TV,26,Finished Airing,"Apr 3, 1998 to Apr 24, 1999",Spring 1998,['Bandai Visual'],Funimation,Sunrise,Original,"['Action', 'Award Winning', 'Sci-Fi']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),76157
+
+Sen to Chihiro no Kamikakushi,34,8.78,44,1707037,Movie,1,Finished Airing,"Jul 20, 2001",nan,['Toho'],Disney Platform Distribution,Studio Ghibli,Original,"['Adventure', 'Award Winning', 'Supernatural']",Mythology,nan,2 hr. 4 min.,PG - Children,30153
+
+Tokyo Ghoul A,3957,7.03,45,1669214,TV,12,Finished Airing,"Jan 9, 2015 to Mar 27, 2015",Winter 2015,"['Marvelous AQL', 'Shueisha']",Funimation,Pierrot,Manga,"['Action', 'Fantasy', 'Horror']",nan,Seinen,24 min. per ep.,R - 17+ (violence & profanity),10242
+
+Neon Genesis Evangelion,204,8.34,46,1662661,TV,26,Finished Airing,"Oct 4, 1995 to Mar 27, 1996",Fall 1995,"['TV Tokyo', 'Kadokawa Shoten', 'Nihon Ad Systems', 'Audio Tanaka']",ADV Films,Gainax,Original,"['Action', 'Avant Garde', 'Award Winning', 'Drama', 'Sci-Fi', 'Suspense']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,97462
+
+Code Geass: Hangyaku no Lelouch R2,20,8.91,47,1654808,TV,25,Finished Airing,"Apr 6, 2008 to Sep 28, 2008",Spring 2008,"['Bandai Visual', 'Mainichi Broadcasting System', 'Bandai', 'Bandai Namco Entertainment', 'Hakuhodo DY Media Partners']",Funimation,Sunrise,Original,"['Action', 'Award Winning', 'Drama', 'Sci-Fi']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),73308
+
+Fairy Tail,1461,7.58,48,1649916,TV,175,Finished Airing,"Oct 12, 2009 to Mar 30, 2013",Fall 2009,"['TV Tokyo', 'Dentsu', 'Pony Canyon', 'Kodansha', 'DAX Production', 'Sakura Create']",Funimation,Satelight,Manga,"['Action', 'Adventure', 'Fantasy']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,44938
+
+Death Parade,389,8.16,49,1643695,TV,12,Finished Airing,"Jan 10, 2015 to Mar 28, 2015",Winter 2015,"['VAP', 'DAX Production', 'Nippon Television Network']",Funimation,Madhouse,Original,"['Drama', 'Supernatural', 'Suspense']",nan,nan,23 min. per ep.,R - 17+ (violence & profanity),26927
+
+Kill la Kill,529,8.04,50,1622907,TV,24,Finished Airing,"Oct 4, 2013 to Mar 28, 2014",Fall 2013,"['Aniplex', 'Dentsu', 'Kadokawa Shoten', 'Mainichi Broadcasting System', 'Movic', 'Ultra Super Pictures', 'Lucent Pictures Entertainment']",Aniplex of America,Trigger,Original,"['Action', 'Comedy', 'Ecchi']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,36258
+
+Bleach: Sennen Kessen-hen,1,9.11,537,376409,TV,13,Finished Airing,"Oct 11, 2022 to Dec 27, 2022",Fall 2022,"['TV Tokyo', 'Aniplex', 'Dentsu', 'Shueisha']",VIZ Media,Pierrot,Manga,"['Action', 'Adventure', 'Fantasy']",nan,Shounen,24 min. per ep.,R - 17+ (violence & profanity),15099
+
+Gintama o,4,9.07,338,575076,TV,51,Finished Airing,"Apr 8, 2015 to Mar 30, 2016",Spring 2015,"['TV Tokyo', 'Aniplex', 'Dentsu']",Funimation,Bandai Namco Pictures,Manga,"['Action', 'Comedy', 'Sci-Fi']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,15469
+
+Kaguya-sama wa Kokurasetai: Ultra Romantic,5,9.07,230,745468,TV,13,Finished Airing,"Apr 9, 2022 to Jun 25, 2022",Spring 2022,"['Aniplex', 'Mainichi Broadcasting System', 'Magic Capsule', 'Shueisha', 'JR East Marketing & Communications']",Aniplex of America,A-1 Pictures,Manga,"['Comedy', 'Romance']",nan,Seinen,23 min. per ep.,PG-13 - Teens 13 or older,26800
+
+Vinland Saga Season 2,26,8.81,749,286036,TV,24,Currently Airing,"Jan 10, 2023 to ?",Winter 2023,"['Dentsu', 'Kodansha', 'Twin Engine']",add some,MAPPA,Manga,"['Action', 'Adventure', 'Drama']",nan,Seinen,25 min. per ep.,R - 17+ (violence & profanity),2731
+
+Bungou Stray Dogs 4th Season,83,8.59,1282,164621,TV,13,Currently Airing,"Jan 4, 2023 to ?",Winter 2023,"['WOWOW', 'Lantis', 'Movic', 'Glovision', 'Crunchyroll', 'Kadokawa', 'Sony Music Solutions', 'Bandai Namco Music Live']",add some,Bones,Manga,"['Action', 'Mystery', 'Supernatural']",nan,Seinen,23 min. per ep.,R - 17+ (violence & profanity),1431
+
+Golden Kamuy 4th Season,258,8.28,2382,67701,TV,13,Currently Airing,"Oct 3, 2022 to ?",Fall 2022,"['NBCUniversal Entertainment Japan', 'Tokyo MX', 'Good Smile Company', 'Sammy', 'Shueisha', 'JR East Marketing & Communications', 'Twin Engine']",add some,Brain's Base,Manga,"['Action', 'Adventure']",nan,Seinen,23 min. per ep.,R - 17+ (violence & profanity),361
+
+Blue Lock,265,8.27,492,409627,TV,24,Currently Airing,"Oct 9, 2022 to ?",Fall 2022,"['TV Asahi', 'Kodansha', ""Toy's Factory"", 'Crunchyroll', 'Bandai Spirits', 'Bit grooove promotion', 'Bandai Namco Filmworks', 'Bandai Namco Music Live']",add some,8bit,Manga,[],Team Sports,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,5278
+
+Violet Evergarden,61,8.67,51,1619687,TV,13,Finished Airing,"Jan 11, 2018 to Apr 5, 2018",Winter 2018,"['Lantis', 'Pony Canyon', 'Rakuonsha', 'ABC Animation']",Funimation,Kyoto Animation,novel,"['Drama', 'Fantasy']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,55709
+
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,290,8.25,52,1580129,TV,13,Finished Airing,"Oct 4, 2018 to Dec 27, 2018",Fall 2018,"['Aniplex', 'Tokyo MX', 'Hakuhodo DY Music & Pictures', 'Nagoya Broadcasting Network', 'BS11', 'ABC Animation', 'Kadokawa']",Aniplex of America,CloverWorks,novel,"['Drama', 'Romance', 'Supernatural']",School,nan,24 min. per ep.,PG-13 - Teens 13 or older,43885
+
+Boku no Hero Academia 4th Season,696,7.92,53,1572556,TV,25,Finished Airing,"Oct 12, 2019 to Apr 4, 2020",Fall 2019,"['Dentsu', 'Yomiuri Telecasting', 'Movic', 'Sony Music Entertainment', 'TOHO animation', 'Shueisha']",Funimation,Bones,Manga,[],nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,8170
+
+Another,1789,7.48,54,1570107,TV,12,Finished Airing,"Jan 10, 2012 to Mar 27, 2012",Winter 2012,"['Lantis', 'Kadokawa Shoten', 'Toho', 'KlockWorx', 'Bandai Namco Live Creative', 'NTT Docomo']",Sentai Filmworks,P.A. Works,Novel,"['Horror', 'Mystery', 'Supernatural']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),16706
+
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,166,8.41,55,1566247,TV,12,Finished Airing,"Jan 12, 2019 to Mar 30, 2019",Winter 2019,"['Aniplex', 'Mainichi Broadcasting System', 'Magic Capsule', 'Shueisha', 'JR East Marketing & Communications']",Aniplex of America,A-1 Pictures,Manga,[],nan,Seinen,25 min. per ep.,PG-13 - Teens 13 or older,36279
+
+Dr. Stone,251,8.29,56,1562592,TV,24,Finished Airing,"Jul 5, 2019 to Dec 13, 2019",Summer 2019,"['TOHO animation', 'Shueisha', '8PAN']",Funimation,TMS Entertainment,Manga,"['Adventure', 'Comedy', 'Sci-Fi']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,25770
+
+Shokugeki no Souma,381,8.17,57,1550783,TV,24,Finished Airing,"Apr 4, 2015 to Sep 26, 2015",Spring 2015,"['Dentsu', 'Frontier Works', 'Mainichi Broadcasting System', 'Magic Capsule', 'Warner Bros. Japan', 'KlockWorx', 'Showgate', 'Shueisha', 'I Will']",Sentai Filmworks,J.C.Staff,Manga,"['Gourmet', 'Ecchi']",School,Shounen,25 min. per ep.,PG-13 - Teens 13 or older,23302
+
+Psycho-Pass,205,8.34,58,1533608,TV,22,Finished Airing,"Oct 12, 2012 to Mar 22, 2013",Fall 2012,"['Dentsu', 'Fuji TV', 'Nitroplus', 'Sony Music Entertainment', 'TOHO animation', 'Kyoraku Industrial Holdings']",Funimation,Production I.G,Original,"['Action', 'Sci-Fi', 'Suspense']",nan,nan,23 min. per ep.,R - 17+ (violence & profanity),37116
+
+One Punch Man 2nd Season,1764,7.49,59,1533166,TV,12,Finished Airing,"Apr 10, 2019 to Jul 3, 2019",Spring 2019,"['TV Tokyo', 'Good Smile Company', 'Shueisha', 'JR East Marketing & Communications', 'Bandai Namco Arts', 'Bandai Spirits']",VIZ Media,J.C.Staff,manga,"['Action', 'Comedy']",nan,Seinen,23 min. per ep.,R - 17+ (violence & profanity),6068
+
+Soul Eater,830,7.84,60,1531545,TV,51,Finished Airing,"Apr 7, 2008 to Mar 30, 2009",Spring 2008,"['TV Tokyo', 'Aniplex', 'Dentsu', 'Media Factory']",Funimation,Bones,Manga,"['Action', 'Comedy', 'Fantasy']",School,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,25400
+
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,220,8.32,61,1522847,TV,11,Finished Airing,"Apr 15, 2011 to Jun 24, 2011",Spring 2011,"['Aniplex', 'Dentsu', 'Fuji TV', 'Fujipacific Music']","NIS America, Inc.",A-1 Pictures,Original,"['Drama', 'Supernatural']",nan,nan,22 min. per ep.,PG-13 - Teens 13 or older,31929
+
+Darling in the FranXX,2959,7.22,62,1520008,TV,24,Finished Airing,"Jan 13, 2018 to Jul 7, 2018",Winter 2018,"['Aniplex', 'Khara', 'Movic', 'Ultra Super Pictures', 'Lucent Pictures Entertainment', 'Tokyo MX', 'Nagoya Broadcasting Network', 'Asahi Broadcasting', 'BS11', 'Lawson', 'ABC Animation', 'Rialto Entertainment']",Funimation,A-1 Pictures,Original,"['Action', 'Drama', 'Romance', 'Sci-Fi']",Mecha,nan,24 min. per ep.,PG-13 - Teens 13 or older,30401
+
+JoJo no Kimyou na Bouken (TV),729,7.90,63,1518306,TV,26,Finished Airing,"Oct 6, 2012 to Apr 6, 2013",Fall 2012,"['Yomiko Advertising', 'Warner Bros. Japan', 'Kamikaze Douga', 'KlockWorx', 'Shueisha']",VIZ Media,David Production,Manga,"['Action', 'Adventure', 'Supernatural']",Vampire,Shounen,24 min. per ep.,R - 17+ (violence & profanity),34933
+
+Tengen Toppa Gurren Lagann,73,8.63,64,1514476,TV,27,Finished Airing,"Apr 1, 2007 to Sep 30, 2007",Spring 2007,"['TV Tokyo', 'Aniplex', 'Dentsu', 'Konami', 'Half H.P Studio', 'Bandai']",ADV Films,Gainax,Original,"['Action', 'Adventure', 'Award Winning', 'Sci-Fi']",Mecha,nan,24 min. per ep.,PG-13 - Teens 13 or older,74563
+
+Charlotte,1015,7.75,65,1494236,TV,13,Finished Airing,"Jul 5, 2015 to Sep 27, 2015",Summer 2015,"['Aniplex', 'Mainichi Broadcasting System', 'Movic', 'Visual Arts', 'ASCII Media Works', 'Tokyo MX', 'BS11']",Aniplex of America,P.A. Works,Original,[],nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,21652
+
+Black Clover,410,8.14,66,1484971,TV,170,Finished Airing,"Oct 3, 2017 to Mar 30, 2021",Fall 2017,"['TV Tokyo', 'Avex Pictures', 'Shueisha']",Funimation,Pierrot,Manga,"['Action', 'Comedy', 'Fantasy']",nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,41702
+
+Hataraku Maou-sama!,1008,7.76,67,1470060,TV,13,Finished Airing,"Apr 4, 2013 to Jun 27, 2013",Spring 2013,"['Sotsu', 'Lantis', 'Pony Canyon', 'Magic Capsule', 'KlockWorx', 'ASCII Media Works', 'Showgate', 'Infinite']",Funimation,White Fox,novel,"['Comedy', 'Fantasy']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,10877
+
+Overlord,692,7.92,68,1464941,TV,13,Finished Airing,"Jul 7, 2015 to Sep 29, 2015",Summer 2015,"['AT-X', 'Grooove', 'Hakuhodo DY Music & Pictures', 'Kadokawa']",Funimation,Madhouse,novel,"['Action', 'Adventure', 'Fantasy']",Isekai,nan,24 min. per ep.,R - 17+ (violence & profanity),24388
+
+Tate no Yuusha no Nariagari,599,7.99,69,1449000,TV,25,Finished Airing,"Jan 9, 2019 to Jun 26, 2019",Winter 2019,"['Frontier Works', 'AT-X', 'Nippon Columbia', 'Glovision', 'Good Smile Company', 'Sammy', 'Crunchyroll', 'Kadokawa Media House', 'NTT Plala', 'Kadokawa']",Funimation,Kinema Citrus,novel,"['Action', 'Adventure', 'Drama', 'Fantasy']",Isekai,nan,24 min. per ep.,PG-13 - Teens 13 or older,25335
+
+Elfen Lied,1744,7.49,70,1435289,TV,13,Finished Airing,"Jul 25, 2004 to Oct 17, 2004",Summer 2004,"['VAP', 'Genco', 'Studio Guts']",ADV Films,Arms,Manga,"['Action', 'Drama', 'Horror', 'Romance', 'Supernatural']",nan,Seinen,25 min. per ep.,R+ - Mild Nudity,23213
+
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,1565,7.55,71,1428401,TV,13,Finished Airing,"Apr 4, 2015 to Jun 27, 2015",Spring 2015,"['Genco', 'Movic', 'Warner Bros. Japan', 'KlockWorx', 'SoftBank Creative', 'Showgate', 'MAGES.', 'FuRyu']",Sentai Filmworks,J.C.Staff,novel,"['Action', 'Adventure', 'Fantasy']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,11263
+
+Highschool of the Dead,3698,7.08,72,1419090,TV,12,Finished Airing,"Jul 5, 2010 to Sep 20, 2010",Summer 2010,"['Geneon Universal Entertainment', 'AT-X', 'Showgate']",Sentai Filmworks,Madhouse,Manga,"['Action', 'Horror', 'Supernatural', 'Ecchi']",nan,Shounen,24 min. per ep.,R+ - Mild Nudity,9689
+
+Fate/Zero,255,8.28,73,1417111,TV,13,Finished Airing,"Oct 2, 2011 to Dec 25, 2011",Fall 2011,"['Aniplex', 'Nitroplus', 'Seikaisha', 'Notes']",Aniplex of America,ufotable,novel,"['Action', 'Fantasy', 'Supernatural']",nan,nan,28 min. per ep.,R - 17+ (violence & profanity),32760
+
+Fullmetal Alchemist,429,8.12,74,1401381,TV,51,Finished Airing,"Oct 4, 2003 to Oct 2, 2004",Fall 2003,"['Aniplex', 'Dentsu', 'Square Enix', 'Mainichi Broadcasting System']",Funimation,Bones,Manga,"['Action', 'Adventure', 'Award Winning', 'Drama', 'Fantasy']",Military,Shounen,24 min. per ep.,R - 17+ (violence & profanity),25178
+
+Kono Subarashii Sekai ni Shukufuku wo! 2,270,8.27,75,1394361,TV,10,Finished Airing,"Jan 12, 2017 to Mar 16, 2017",Winter 2017,"['Kadokawa Shoten', 'Nippon Columbia', 'KlockWorx', 'Sony Music Communications', 'Toranoana', '81 Produce', 'Kadokawa Media House']",Discotek Media,Studio Deen,novel,"['Adventure', 'Comedy', 'Fantasy']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,11556
+
+Mob Psycho 100 II,31,8.80,76,1373686,TV,13,Finished Airing,"Jan 7, 2019 to Apr 1, 2019",Winter 2019,"['Warner Bros. Japan', 'KlockWorx', 'BS Fuji', 'Hakuhodo DY Music & Pictures', 'Shogakukan']",Funimation,Bones,manga,"['Action', 'Comedy', 'Supernatural']",Super Power,nan,24 min. per ep.,PG-13 - Teens 13 or older,31056
+
+Noragami Aragoto,384,8.16,77,1371755,TV,13,Finished Airing,"Oct 3, 2015 to Dec 26, 2015",Fall 2015,"['Dentsu', 'Shochiku', 'Kodansha', 'Ai Addiction', 'Avex Pictures', 'A-Sketch']",Funimation,Bones,Manga,"['Action', 'Fantasy']",Mythology,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,11357
+
+Kakegurui,2806,7.25,78,1366903,TV,12,Finished Airing,"Jul 1, 2017 to Sep 23, 2017",Summer 2017,"['Dentsu', 'Square Enix', 'Mainichi Broadcasting System', 'Movic', 'KlockWorx', 'DIVE II Entertainment', '81 Produce', 'Avex Pictures', 'FuRyu']",Sentai Filmworks,MAPPA,Manga,"['Drama', 'Mystery']",nan,Shounen,24 min. per ep.,R - 17+ (violence & profanity),10395
+
+Clannad,582,8.00,79,1346742,TV,23,Finished Airing,"Oct 5, 2007 to Mar 28, 2008",Fall 2007,"['Pony Canyon', 'TBS', 'Movic', 'Animation Do']",Sentai Filmworks,Kyoto Animation,novel,"['Drama', 'Romance', 'Supernatural']",School,nan,24 min. per ep.,PG-13 - Teens 13 or older,26950
+
+High School DxD,2348,7.34,80,1338812,TV,12,Finished Airing,"Jan 6, 2012 to Mar 23, 2012",Winter 2012,"['Genco', 'Lantis', 'AT-X', 'PRA', 'Showgate', 'Atelier Musa', 'Fujimi Shobo']",Funimation,TNK,novel,"['Comedy', 'Romance', 'Ecchi']",nan,nan,24 min. per ep.,R+ - Mild Nudity,21570
+
+Durarara!!,447,8.11,81,1338013,TV,24,Finished Airing,"Jan 8, 2010 to Jun 25, 2010",Winter 2010,"['Aniplex', 'Square Enix', 'Mainichi Broadcasting System', 'Movic', 'ASCII Media Works', 'Sakura Create']",Aniplex of America,Brain's Base,novel,"['Action', 'Mystery', 'Supernatural']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),29561
+
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,576,8.01,82,1334534,TV,13,Finished Airing,"Apr 5, 2013 to Jun 28, 2013",Spring 2013,"['Geneon Universal Entertainment', 'TBS', 'Delfi Sound', 'Marvelous AQL', 'Atelier Musa']",Sentai Filmworks,Brain's Base,novel,"['Comedy', 'Romance']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,27331
+
+Bakemonogatari,209,8.33,83,1330537,TV,15,Finished Airing,"Jul 3, 2009 to Jun 25, 2010",Summer 2009,"['Aniplex', 'Kodansha']",Aniplex of America,Shaft,novel,"['Mystery', 'Romance', 'Supernatural']",Vampire,nan,25 min. per ep.,R - 17+ (violence & profanity),47437
+
+Haikyuu!! Second Season,70,8.64,84,1321839,TV,25,Finished Airing,"Oct 4, 2015 to Mar 27, 2016",Fall 2015,"['Dentsu', 'Mainichi Broadcasting System', 'Movic', 'Sony Music Entertainment', 'TOHO animation', 'Shueisha']",Sentai Filmworks,Production I.G,Manga,[],nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,15347
+
+Ansatsu Kyoushitsu 2nd Season,123,8.50,85,1319771,TV,25,Finished Airing,"Jan 8, 2016 to Jul 1, 2016",Winter 2016,"['Dentsu', 'Studio Hibari', 'Fuji TV', 'DAX Production', 'Avex Pictures', 'Shueisha', 'Kansai Telecasting']",Funimation,Lerche,Manga,"['Action', 'Comedy']",School,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,17101
+
+Kimetsu no Yaiba Movie: Mugen Ressha-hen,72,8.63,86,1310182,Movie,1,Finished Airing,"Oct 16, 2020",nan,"['Aniplex', 'Shueisha']",Aniplex of America,ufotable,Manga,"['Action', 'Fantasy']",Historical,Shounen,1 hr. 56 min.,R - 17+ (violence & profanity),12364
+
+Hyouka,481,8.08,87,1282148,TV,22,Finished Airing,"Apr 23, 2012 to Sep 17, 2012",Spring 2012,"['Lantis', 'Kadokawa Shoten', 'KlockWorx', 'chara-ani.com', 'Animation Do']",Funimation,Kyoto Animation,Novel,"['Mystery', 'Slice of Life']",School,nan,25 min. per ep.,PG-13 - Teens 13 or older,25826
+
+Tensei shitara Slime Datta Ken,420,8.14,88,1281791,TV,24,Finished Airing,"Oct 2, 2018 to Mar 19, 2019",Fall 2018,"['Lantis', 'Kodansha', 'BS11', 'Bandai Namco Arts', 'Micro Magazine Publishing']",Funimation,8bit,Manga,"['Action', 'Adventure', 'Comedy', 'Fantasy']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,26381
+
+Chuunibyou demo Koi ga Shitai!,1114,7.71,89,1275996,TV,12,Finished Airing,"Oct 4, 2012 to Dec 20, 2012",Fall 2012,"['Lantis', 'Pony Canyon', 'TBS', 'Rakuonsha', 'Animation Do']",Sentai Filmworks,Kyoto Animation,novel,"['Comedy', 'Romance']",School,nan,24 min. per ep.,PG-13 - Teens 13 or older,17197
+
+Vinland Saga,44,8.73,90,1260226,TV,24,Finished Airing,"Jul 8, 2019 to Dec 30, 2019",Summer 2019,"['Production I.G', 'Dentsu', 'Kodansha', 'Twin Engine']",Sentai Filmworks,Wit Studio,Manga,"['Action', 'Adventure', 'Drama']",nan,Seinen,24 min. per ep.,R - 17+ (violence & profanity),38462
+
+Bungou Stray Dogs,875,7.82,91,1244636,TV,12,Finished Airing,"Apr 7, 2016 to Jun 23, 2016",Spring 2016,"['Lantis', 'Movic', 'KlockWorx', 'Bandai Namco Live Creative', 'Glovision', 'Lawson HMV Entertainment', 'Sony PCL']",Funimation,Bones,Manga,"['Action', 'Mystery', 'Supernatural']",nan,Seinen,23 min. per ep.,R - 17+ (violence & profanity),23947
+
+Made in Abyss,58,8.67,92,1241919,TV,13,Finished Airing,"Jul 7, 2017 to Sep 29, 2017",Summer 2017,"['Media Factory', 'AT-X', 'Takeshobo', 'Sony Music Communications', 'Kadokawa Media House', 'Cygames', 'Kanetsu Investment', 'Kadokawa', 'Global Solutions', 'IRMA LA DOUCE']",Sentai Filmworks,Kinema Citrus,manga,"['Adventure', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi']",nan,nan,25 min. per ep.,R - 17+ (violence & profanity),40454
+
+Owari no Seraph,1765,7.49,93,1241486,TV,12,Finished Airing,"Apr 4, 2015 to Jun 20, 2015",Spring 2015,"['Rakuonsha', 'NBCUniversal Entertainment Japan', 'Shueisha']",Funimation,Wit Studio,Manga,"['Action', 'Drama', 'Supernatural']",nan,Shounen,23 min. per ep.,R - 17+ (violence & profanity),13055
+
+Spy x Family,57,8.68,94,1221943,TV,12,Finished Airing,"Apr 9, 2022 to Jun 25, 2022",Spring 2022,"['TV Tokyo', 'Shogakukan-Shueisha Productions', 'TOHO animation', 'Shueisha']",add some,Wit Studio,Manga,"['Action', 'Comedy']",Childcare,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,36487
+
+Howl no Ugoku Shiro,64,8.66,95,1207845,Movie,1,Finished Airing,"Nov 20, 2004",nan,"['d-rights', 'Tokuma Shoten']",Disney Platform Distribution,Studio Ghibli,Novel,"['Adventure', 'Award Winning', 'Drama', 'Fantasy', 'Romance']",nan,nan,1 hr. 59 min.,G - All Ages,25621
+
+Mahou Shoujo Madoka Magica,196,8.36,96,1206767,TV,12,Finished Airing,"Jan 7, 2011 to Apr 22, 2011",Winter 2011,"['Aniplex', 'Mainichi Broadcasting System', 'Movic', 'Nitroplus', 'Houbunsha']",Aniplex of America,Shaft,Original,"['Award Winning', 'Drama', 'Suspense']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,51434
+
+Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen,71,8.64,97,1203180,TV,12,Finished Airing,"Apr 11, 2020 to Jun 27, 2020",Spring 2020,"['Aniplex', 'Mainichi Broadcasting System', 'Shueisha', 'JR East Marketing & Communications']",Aniplex of America,A-1 Pictures,Manga,[],nan,Seinen,24 min. per ep.,PG-13 - Teens 13 or older,18449
+
+Enen no Shouboutai,1118,7.71,98,1201017,TV,24,Finished Airing,"Jul 6, 2019 to Dec 28, 2019",Summer 2019,"['Mainichi Broadcasting System', 'Kodansha', 'bilibili', 'DMM pictures', 'DMM Music']",Funimation,David Production,Manga,"['Action', 'Supernatural']",nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,8525
+
+Sakura-sou no Pet na Kanojo,467,8.09,99,1181930,TV,24,Finished Airing,"Oct 9, 2012 to Mar 26, 2013",Fall 2012,"['Frontier Works', 'Genco', 'Media Factory', 'Animax', 'Mainichi Broadcasting System', 'ASCII Media Works', 'Sony Music Communications']",Sentai Filmworks,J.C.Staff,novel,"['Drama', 'Romance']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,25961
+
+Deadman Wonderland,3283,7.16,100,1176099,TV,12,Finished Airing,"Apr 17, 2011 to Jul 3, 2011",Spring 2011,"['Kadokawa Shoten', 'Kadokawa Pictures Japan', 'KlockWorx', 'AMG MUSIC']",Funimation,Manglobe,Manga,"['Action', 'Horror', 'Sci-Fi', 'Supernatural']",nan,Shounen,24 min. per ep.,R - 17+ (violence & profanity),6553
+
+Kaichou wa Maid-sama!,572,8.01,101,1176048,TV,26,Finished Airing,"Apr 2, 2010 to Sep 24, 2010",Spring 2010,"['Geneon Universal Entertainment', 'TBS', 'Hakusensha', 'Half H.P Studio']",Sentai Filmworks,J.C.Staff,Manga,"['Comedy', 'Romance']",School,Shoujo,24 min. per ep.,PG-13 - Teens 13 or older,21889
+
+Horimiya,347,8.20,102,1170497,TV,13,Finished Airing,"Jan 10, 2021 to Apr 4, 2021",Winter 2021,"['Aniplex', 'Square Enix', 'Mainichi Broadcasting System', 'Movic', 'Kanetsu Investment', 'My Theater D.D.', 'Global Solutions', 'Mirai-Kojo']",Funimation,CloverWorks,Manga,[],School,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,30130
+
+Guilty Crown,2014,7.42,103,1160790,TV,22,Finished Airing,"Oct 14, 2011 to Mar 23, 2012",Fall 2011,"['Aniplex', 'Dentsu', 'Movic', 'Fuji TV', 'Fujipacific Music', '1IN']",Funimation,Production I.G,Original,"['Action', 'Drama', 'Sci-Fi']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),16757
+
+Samurai Champloo,120,8.51,104,1157496,TV,26,Finished Airing,"May 20, 2004 to Mar 19, 2005",Spring 2004,"['Victor Entertainment', 'Fuji TV', 'Barnum Studio', 'Tokuma Shoten', 'flying DOG']",Funimation,Manglobe,Original,"['Action', 'Adventure', 'Comedy']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),35178
+
+Mononoke Hime,59,8.67,105,1156493,Movie,1,Finished Airing,"Jul 12, 1997",nan,"['Tokuma Shoten', 'Nippon Television Network']",GKIDS,Studio Ghibli,Original,"['Action', 'Adventure', 'Award Winning', 'Fantasy']",nan,nan,2 hr. 13 min.,PG-13 - Teens 13 or older,19982
+
+Kobayashi-san Chi no Maid Dragon,600,7.98,106,1152619,TV,13,Finished Airing,"Jan 12, 2017 to Apr 6, 2017",Winter 2017,"['Lantis', 'Pony Canyon', 'ABC Animation']",Funimation,Kyoto Animation,Manga,"['Fantasy', 'Slice of Life']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,16582
+
+Dragon Ball Z,390,8.16,107,1149140,TV,291,Finished Airing,"Apr 26, 1989 to Jan 31, 1996",Spring 1989,['Fuji TV'],Funimation,Toei Animation,Manga,"['Action', 'Adventure', 'Comedy', 'Fantasy']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,35115
+
+Clannad: After Story,16,8.94,108,1125566,TV,24,Finished Airing,"Oct 3, 2008 to Mar 27, 2009",Fall 2008,"['Pony Canyon', 'TBS', 'Rakuonsha', 'Animation Do']",Sentai Filmworks,Kyoto Animation,novel,"['Drama', 'Romance', 'Supernatural']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,68095
+
+Kuroko no Basket,497,8.07,109,1124377,TV,25,Finished Airing,"Apr 8, 2012 to Sep 22, 2012",Spring 2012,"['Bandai Visual', 'Lantis', 'Nihon Ad Systems', 'Mainichi Broadcasting System', 'Banpresto', 'Shueisha', 'BS11']",add some,Production I.G,Manga,[],nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,20412
+
+Kimetsu no Yaiba: Yuukaku-hen,27,8.82,110,1121215,TV,11,Finished Airing,"Dec 5, 2021 to Feb 13, 2022",Winter 2022,"['Aniplex', 'Shueisha']",Aniplex of America,ufotable,Manga,"['Action', 'Fantasy']",Historical,Shounen,26 min. per ep.,R - 17+ (violence & profanity),22401
+
+Kuroshitsuji,1204,7.67,111,1113695,TV,24,Finished Airing,"Oct 3, 2008 to Mar 27, 2009",Fall 2008,"['Aniplex', 'Square Enix', 'Yomiko Advertising', 'Mainichi Broadcasting System', 'Movic', 'Trinity Sound']",Funimation,A-1 Pictures,Manga,"['Action', 'Comedy', 'Mystery', 'Supernatural']",nan,Shounen,24 min. per ep.,R - 17+ (violence & profanity),21769
+
+Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,33,8.79,112,1107373,TV,10,Finished Airing,"Oct 8, 2016 to Dec 10, 2016",Fall 2016,"['Dentsu', 'Mainichi Broadcasting System', 'Movic', 'Sony Music Entertainment', 'TOHO animation', 'Shueisha']",Sentai Filmworks,Production I.G,Manga,[],nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,14974
+
+Nisekoi,1432,7.58,113,1107353,TV,20,Finished Airing,"Jan 11, 2014 to May 24, 2014",Winter 2014,"['Aniplex', 'Mainichi Broadcasting System', 'Shueisha']",Aniplex of America,Shaft,Manga,"['Comedy', 'Romance']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,10583
+
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,452,8.10,114,1105820,TV,24,Finished Airing,"Apr 5, 2014 to Sep 13, 2014",Spring 2014,"['Yomiko Advertising', 'Warner Bros. Japan', 'Kamikaze Douga', 'KlockWorx', 'Shueisha']",VIZ Media,David Production,Manga,"['Action', 'Adventure', 'Drama', 'Supernatural']",nan,Shounen,24 min. per ep.,R - 17+ (violence & profanity),20453
+
+Dororo,299,8.24,115,1102679,TV,24,Finished Airing,"Jan 7, 2019 to Jun 24, 2019",Winter 2019,['Twin Engine'],Sentai Filmworks,Tezuka Productions,Manga,"['Action', 'Adventure', 'Supernatural']",nan,Shounen,24 min. per ep.,R - 17+ (violence & profanity),18610
+
+Kyoukai no Kanata,1056,7.73,116,1101948,TV,12,Finished Airing,"Oct 3, 2013 to Dec 19, 2013",Fall 2013,"['Lantis', 'Pony Canyon', 'TBS']",Sentai Filmworks,Kyoto Animation,novel,"['Action', 'Fantasy']",School,nan,24 min. per ep.,PG-13 - Teens 13 or older,11578
+
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e,801,7.86,117,1097155,TV,12,Finished Airing,"Jul 12, 2017 to Sep 27, 2017",Summer 2017,"['Studio Hibari', 'Lantis', 'Media Factory', 'AT-X', 'Sony Music Communications', 'Toranoana', 'Crunchyroll', 'Kadokawa Media House', 'AKABEiSOFT2']",Funimation,Lerche,novel,[],nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,16563
+
+Tokyo Revengers,525,8.04,118,1088885,TV,24,Finished Airing,"Apr 11, 2021 to Sep 19, 2021",Spring 2021,"['Mainichi Broadcasting System', 'Pony Canyon', 'Kodansha', 'AT-X', 'Ultra Super Pictures', 'Studio Mausu', 'Sammy']",add some,LIDENFILMS,Manga,"['Action', 'Drama', 'Supernatural']",nan,Shounen,23 min. per ep.,R - 17+ (violence & profanity),24412
+
+Zankyou no Terror,458,8.10,119,1086603,TV,11,Finished Airing,"Jul 11, 2014 to Sep 26, 2014",Summer 2014,"['Aniplex', 'Dentsu', 'Fuji TV', 'Tohokushinsha Film Corporation', 'Kyoraku Industrial Holdings']",Funimation,MAPPA,Original,"['Mystery', 'Suspense']",Psychological,nan,22 min. per ep.,R - 17+ (violence & profanity),21082
+
+Tokyo Ghoul:re,7389,6.38,120,1086103,TV,12,Finished Airing,"Apr 3, 2018 to Jun 19, 2018",Spring 2018,"['Marvelous', 'TC Entertainment']",Funimation,Pierrot,Manga,"['Action', 'Fantasy', 'Horror']",nan,Seinen,24 min. per ep.,R - 17+ (violence & profanity),3699
+
+Chainsaw Man,62,8.67,121,1085751,TV,12,Finished Airing,"Oct 12, 2022 to Dec 28, 2022",Fall 2022,['add some'],add some,MAPPA,Manga,"['Action', 'Fantasy']",Gore,Shounen,24 min. per ep.,R - 17+ (violence & profanity),35677
+
+Mushoku Tensei: Isekai Ittara Honki Dasu,194,8.37,122,1084227,TV,11,Finished Airing,"Jan 11, 2021 to Mar 22, 2021",Winter 2021,"['Frontier Works', 'TOHO animation', 'Hakuhodo DY Music & Pictures', 'BS11', 'Egg Firm', 'Kadokawa', 'GREE', 'Toho Music']",Funimation,Studio Bind,novel,"['Drama', 'Fantasy', 'Ecchi']",nan,nan,23 min. per ep.,R - 17+ (violence & profanity),26624
+
+Shokugeki no Souma: Ni no Sara,461,8.10,123,1072365,TV,13,Finished Airing,"Jul 2, 2016 to Sep 24, 2016",Summer 2016,"['Dentsu', 'Lantis', 'Mainichi Broadcasting System', 'KlockWorx', 'Showgate', 'Shueisha']",Sentai Filmworks,J.C.Staff,Manga,"['Gourmet', 'Ecchi']",School,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,3040
+
+Log Horizon,675,7.93,124,1060340,TV,25,Finished Airing,"Oct 5, 2013 to Mar 22, 2014",Fall 2013,['NHK'],Funimation,Satelight,novel,"['Action', 'Adventure', 'Fantasy']",nan,nan,25 min. per ep.,PG-13 - Teens 13 or older,10049
+
+Ouran Koukou Host Club,385,8.16,125,1056745,TV,26,Finished Airing,"Apr 5, 2006 to Sep 27, 2006",Spring 2006,"['VAP', 'Hakusensha', 'Nippon Television Network']",Funimation,Bones,Manga,"['Comedy', 'Romance']",nan,Shoujo,23 min. per ep.,PG-13 - Teens 13 or older,32451
+
+Nanatsu no Taizai: Imashime no Fukkatsu,1395,7.60,126,1053941,TV,24,Finished Airing,"Jan 13, 2018 to Jun 30, 2018",Winter 2018,"['Aniplex', 'Dentsu', 'Kodansha', 'Movic', 'Sammy']",add some,A-1 Pictures,Manga,"['Action', 'Adventure', 'Fantasy']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,3761
+
+Fate/Zero 2nd Season,94,8.56,127,1051517,TV,12,Finished Airing,"Apr 8, 2012 to Jun 24, 2012",Spring 2012,"['Aniplex', 'Nitroplus', 'Seikaisha', 'Notes']",Aniplex of America,ufotable,novel,"['Action', 'Fantasy', 'Supernatural']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),19842
+
+Devilman: Crybaby,1005,7.76,128,1045020,ONA,10,Finished Airing,"Jan 5, 2018",nan,"['Aniplex', 'Dynamic Planning', 'Netflix']",add some,Science SARU,Manga,"['Action', 'Avant Garde', 'Horror', 'Supernatural']",nan,Shounen,25 min. per ep.,R+ - Mild Nudity,22332
+
+Shingeki no Kyojin: The Final Season Part 2,35,8.78,129,1043927,TV,12,Finished Airing,"Jan 10, 2022 to Apr 4, 2022",Winter 2022,"['Production I.G', 'Dentsu', 'Mainichi Broadcasting System', 'Pony Canyon', 'Kodansha', 'Pony Canyon Enterprise']",add some,MAPPA,Manga,"['Action', 'Drama']",nan,Shounen,23 min. per ep.,R - 17+ (violence & profanity),28206
+
+Boku no Hero Academia 5th Season,2087,7.40,130,1033132,TV,25,Finished Airing,"Mar 27, 2021 to Sep 25, 2021",Spring 2021,"['Dentsu', 'Movic', 'Sony Music Entertainment', 'TOHO animation', 'Shueisha']",Funimation,Bones,Manga,[],nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,9971
+
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,124,8.50,131,1015501,TV,39,Finished Airing,"Apr 2, 2016 to Dec 24, 2016",Spring 2016,"['Warner Bros. Japan', 'KlockWorx', 'Medicos Entertainment', 'Shueisha']",VIZ Media,David Production,Manga,"['Action', 'Adventure', 'Supernatural']",nan,Shounen,23 min. per ep.,R - 17+ (violence & profanity),36942
+
+Goblin Slayer,2013,7.42,132,1014538,TV,12,Finished Airing,"Oct 7, 2018 to Dec 30, 2018",Fall 2018,"['Sony Pictures Entertainment', 'Frontier Works', 'AT-X', 'SoftBank Creative', 'Bushiroad', 'Hakuhodo DY Music & Pictures', 'Good Smile Film', 'Artist Management Office']",Funimation,White Fox,novel,"['Action', 'Adventure', 'Fantasy']",Gore,nan,23 min. per ep.,R - 17+ (violence & profanity),6753
+
+Tonari no Kaibutsu-kun,1808,7.48,133,1012546,TV,13,Finished Airing,"Oct 2, 2012 to Dec 25, 2012",Fall 2012,"['TV Tokyo', 'Aniplex', 'Nihon Ad Systems', 'Kodansha']","NIS America, Inc.",Brain's Base,Manga,"['Comedy', 'Romance']",School,Shoujo,24 min. per ep.,PG-13 - Teens 13 or older,5935
+
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,150,8.44,134,1009908,TV,24,Finished Airing,"Jan 10, 2015 to Jun 20, 2015",Winter 2015,"['Yomiko Advertising', 'Warner Bros. Japan', 'Kamikaze Douga', 'KlockWorx', 'Shueisha']",VIZ Media,David Production,Manga,"['Action', 'Adventure', 'Drama', 'Supernatural']",nan,Shounen,23 min. per ep.,R - 17+ (violence & profanity),19378
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season,203,8.35,135,1004890,TV,13,Finished Airing,"Jul 8, 2020 to Sep 30, 2020",Summer 2020,"['AT-X', 'Memory-Tech', 'Hakuhodo DY Music & Pictures', 'Kadokawa Media House', 'Kadokawa']",add some,White Fox,novel,"['Drama', 'Fantasy', 'Suspense']",nan,nan,27 min. per ep.,R - 17+ (violence & profanity),11093
+
+Fate/stay night: Unlimited Blade Works,354,8.19,136,997928,TV,12,Finished Airing,"Oct 12, 2014 to Dec 28, 2014",Fall 2014,"['Aniplex', 'Notes']",Aniplex of America,ufotable,novel,"['Action', 'Fantasy', 'Supernatural']",nan,nan,28 min. per ep.,R - 17+ (violence & profanity),15704
+
+Mahouka Koukou no Rettousei,2021,7.42,137,997786,TV,26,Finished Airing,"Apr 6, 2014 to Sep 28, 2014",Spring 2014,"['Aniplex', 'Square Enix', 'Movic', 'ASCII Media Works']",Aniplex of America,Madhouse,novel,"['Action', 'Romance', 'Sci-Fi', 'Supernatural']",School,nan,23 min. per ep.,PG-13 - Teens 13 or older,10715
+
+Gintama,17,8.94,138,997567,TV,201,Finished Airing,"Apr 4, 2006 to Mar 25, 2010",Spring 2006,"['TV Tokyo', 'Aniplex', 'Dentsu', 'Trinity Sound', 'Audio Highs', 'Miracle Robo', 'Shueisha']",Sentai Filmworks,Sunrise,Manga,"['Action', 'Comedy', 'Sci-Fi']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,56618
+
+Saiki Kusuo no Psi-nan,161,8.42,139,996961,TV,120,Finished Airing,"Jul 4, 2016 to Dec 26, 2016",Summer 2016,"['TV Tokyo', 'Shogakukan-Shueisha Productions', 'Pony Canyon', 'Nippon Columbia', 'KlockWorx', 'Asmik Ace', 'Bandai Namco Entertainment', 'Shueisha', ""Toy's Factory"", 'Dear Stage inc.']",Funimation,J.C.Staff,Manga,"['Comedy', 'Supernatural']",nan,Shounen,5 min. per ep.,PG-13 - Teens 13 or older,26662
+
+K-On!,814,7.85,140,993204,TV,13,Finished Airing,"Apr 3, 2009 to Jun 26, 2009",Spring 2009,"['Pony Canyon', 'TBS', 'Movic', 'Rakuonsha', 'Animation Do']",Bandai Entertainment,Kyoto Animation,manga,[],nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,22794
+
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,314,8.22,141,987964,TV,13,Finished Airing,"Apr 3, 2015 to Jun 26, 2015",Spring 2015,"['TBS', 'Marvelous AQL', 'NBCUniversal Entertainment Japan']",Sentai Filmworks,feel.,novel,"['Comedy', 'Romance']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,15580
+
+Magi: The Labyrinth of Magic,559,8.02,142,985045,TV,25,Finished Airing,"Oct 7, 2012 to Mar 31, 2013",Fall 2012,"['Aniplex', 'Dentsu', 'Shogakukan-Shueisha Productions', 'Mainichi Broadcasting System', 'Movic', 'GYAO!']",Aniplex of America,A-1 Pictures,Manga,"['Action', 'Adventure', 'Fantasy']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,8861
+
+Tonari no Totoro,293,8.25,143,977738,Movie,1,Finished Airing,"Apr 16, 1988",nan,"['Studio Fantasia', 'Streamline Pictures']",Disney Platform Distribution,Studio Ghibli,Original,"['Adventure', 'Award Winning', 'Supernatural']",nan,nan,1 hr. 26 min.,G - All Ages,7697
+
+Date A Live,3264,7.17,144,968733,TV,12,Finished Airing,"Apr 6, 2013 to Jun 22, 2013",Spring 2013,"['AIC', 'Kadokawa Shoten', 'AT-X', 'Nippon Columbia', 'Fujimi Shobo']",Funimation,AIC PLUS+,novel,"['Comedy', 'Romance', 'Sci-Fi']",nan,nan,25 min. per ep.,R - 17+ (violence & profanity),9318
+
+Golden Time,1044,7.74,145,963847,TV,24,Finished Airing,"Oct 4, 2013 to Mar 28, 2014",Fall 2013,"['Genco', 'Starchild Records']",Sentai Filmworks,J.C.Staff,novel,"['Comedy', 'Drama', 'Romance']",Love Polygon,nan,24 min. per ep.,PG-13 - Teens 13 or older,12364
+
+ReLIFE,606,7.98,146,963244,TV,13,Finished Airing,"Jul 2, 2016 to Sep 24, 2016",Summer 2016,"['Aniplex', 'Half H.P Studio', 'comico', 'Hakuhodo DY Media Partners', 'Lawson', 'C & I entertainment', 'TMS Music']",Funimation,TMS Entertainment,manga,"['Drama', 'Romance']",School,nan,23 min. per ep.,PG-13 - Teens 13 or older,9493
+
+Dragon Ball,628,7.96,147,963016,TV,153,Finished Airing,"Feb 26, 1986 to Apr 12, 1989",Winter 1986,['Fuji TV'],Funimation,Toei Animation,Manga,"['Adventure', 'Comedy', 'Fantasy']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,14474
+
+Sword Art Online: Alicization,1509,7.56,148,961395,TV,24,Finished Airing,"Oct 7, 2018 to Mar 31, 2019",Fall 2018,"['Aniplex', 'Genco', 'Bandai Namco Entertainment', 'Egg Firm', 'Straight Edge', 'Kadokawa']",Aniplex of America,A-1 Pictures,novel,"['Action', 'Adventure', 'Fantasy']",Video Game,nan,24 min. per ep.,R - 17+ (violence & profanity),6919
+
+Monster,25,8.85,149,951381,TV,74,Finished Airing,"Apr 7, 2004 to Sep 28, 2005",Spring 2004,"['VAP', 'Shogakukan-Shueisha Productions', 'Nippon Television Network']",VIZ Media,Madhouse,Manga,"['Drama', 'Mystery', 'Suspense']",nan,Seinen,24 min. per ep.,R+ - Mild Nudity,43693
+
+Prison School,1368,7.61,150,942629,TV,12,Finished Airing,"Jul 11, 2015 to Sep 26, 2015",Summer 2015,"['Genco', 'Kodansha', 'Movic', 'Warner Bros. Japan', 'KlockWorx', 'Showgate']",Funimation,J.C.Staff,Manga,"['Comedy', 'Romance', 'Ecchi']",nan,Seinen,24 min. per ep.,R+ - Mild Nudity,6938
+
+Overlord II,990,7.76,151,936092,TV,13,Finished Airing,"Jan 9, 2018 to Apr 3, 2018",Winter 2018,"['AT-X', 'Enterbrain', 'Grooove', 'Hakuhodo DY Music & Pictures', 'NTT Plala', 'Kadokawa']",Funimation,Madhouse,novel,"['Action', 'Adventure', 'Fantasy']",Isekai,nan,23 min. per ep.,R - 17+ (violence & profanity),4244
+
+Black Lagoon,540,8.03,152,930827,TV,12,Finished Airing,"Apr 9, 2006 to Jun 25, 2006",Spring 2006,"['Geneon Universal Entertainment', 'Shogakukan']",Funimation,Madhouse,Manga,[],nan,Seinen,24 min. per ep.,R - 17+ (violence & profanity),17051
+
+Fairy Tail (2014),1234,7.66,153,930790,TV,102,Finished Airing,"Apr 5, 2014 to Mar 26, 2016",Spring 2014,"['TV Tokyo', 'Dentsu']",Funimation,A-1 Pictures,Manga,"['Action', 'Adventure', 'Fantasy']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,11704
+
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,85,8.58,154,918633,TV,39,Finished Airing,"Oct 6, 2018 to Jul 28, 2019",Fall 2018,"['Warner Bros. Japan', 'KlockWorx', 'Medicos Entertainment', 'Shueisha']",VIZ Media,David Production,Manga,"['Action', 'Adventure', 'Supernatural']",Organized Crime,Shounen,23 min. per ep.,R - 17+ (violence & profanity),29450
+
+Shokugeki no Souma: San no Sara,561,8.02,155,914001,TV,12,Finished Airing,"Oct 4, 2017 to Dec 20, 2017",Fall 2017,"['Lantis', 'Warner Bros. Japan', 'KlockWorx', 'Shueisha']",Sentai Filmworks,J.C.Staff,Manga,"['Gourmet', 'Ecchi']",School,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,2614
+
+Dr. Stone: Stone Wars,371,8.18,156,909471,TV,11,Finished Airing,"Jan 14, 2021 to Mar 25, 2021",Winter 2021,"['TOHO animation', 'Shueisha', 'Toho Music', '8PAN']",Funimation,TMS Entertainment,Manga,"['Adventure', 'Comedy', 'Sci-Fi']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,6951
+
+Fate/stay night,2646,7.28,157,899345,TV,24,Finished Airing,"Jan 7, 2006 to Jun 17, 2006",Winter 2006,"['Geneon Universal Entertainment', 'Frontier Works', 'TBS', 'KlockWorx', 'Notes']",Sentai Filmworks,Studio Deen,novel,"['Action', 'Fantasy', 'Romance', 'Supernatural']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),7101
+
+Darker than Black: Kuro no Keiyakusha,491,8.07,158,897903,TV,25,Finished Airing,"Apr 6, 2007 to Sep 28, 2007",Spring 2007,"['Aniplex', 'Square Enix', 'Mainichi Broadcasting System', 'Movic', 'Myrica Music']",Funimation,Bones,Original,"['Action', 'Mystery', 'Sci-Fi']",Super Power,nan,24 min. per ep.,R - 17+ (violence & profanity),16234
+
+Wotaku ni Koi wa Muzukashii,665,7.94,159,891755,TV,11,Finished Airing,"Apr 13, 2018 to Jun 22, 2018",Spring 2018,"['Aniplex', 'Dentsu', 'Fuji TV', 'Half H.P Studio', 'Ichijinsha', 'Kanetsu Investment', 'Christmas Holly']",add some,A-1 Pictures,manga,[],nan,nan,22 min. per ep.,PG-13 - Teens 13 or older,10696
+
+Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,2958,7.22,160,889038,TV,13,Finished Airing,"Jul 5, 2013 to Sep 27, 2013",Summer 2013,"['Geneon Universal Entertainment', 'Studio Hibari', 'Mainichi Broadcasting System', 'Showgate']",Funimation,Lerche,novel,"['Horror', 'Mystery']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),8061
+
+Byousoku 5 Centimeter,1455,7.58,161,887851,Movie,3,Finished Airing,"Mar 3, 2007",nan,['add some'],ADV Films,CoMix Wave Films,Original,"['Drama', 'Romance']",nan,nan,22 min. per ep.,PG-13 - Teens 13 or older,10546
+
+"Kanojo, Okarishimasu",3495,7.12,162,886755,TV,12,Finished Airing,"Jul 11, 2020 to Sep 26, 2020",Summer 2020,"['Mainichi Broadcasting System', 'Kodansha', 'DMM pictures', 'DMM Music']",add some,TMS Entertainment,Manga,"['Comedy', 'Romance']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,8021
+
+Rakudai Kishi no Cavalry,1910,7.45,163,884579,TV,12,Finished Airing,"Oct 3, 2015 to Dec 19, 2015",Fall 2015,"['Frontier Works', 'Media Factory', 'AT-X', 'flying DOG', 'Hakuhodo DY Music & Pictures', 'Animatic', 'SB Creative']",Sentai Filmworks,SILVER LINK.,novel,"['Action', 'Fantasy', 'Romance', 'Ecchi']",School,nan,23 min. per ep.,R - 17+ (violence & profanity),8352
+
+Tenki no Ko,242,8.30,164,882686,Movie,1,Finished Airing,"Jul 19, 2019",nan,"['Toho', 'Lawson HMV Entertainment', 'JR East Marketing & Communications', 'Kadokawa', 'voque ting', 'STORY', 'Lawson Entertainment']",GKIDS,CoMix Wave Films,Original,"['Award Winning', 'Drama', 'Fantasy', 'Romance']",nan,nan,1 hr. 52 min.,PG-13 - Teens 13 or older,11211
+
+Plastic Memories,714,7.91,165,880843,TV,13,Finished Airing,"Apr 5, 2015 to Jun 28, 2015",Spring 2015,"['Aniplex', 'Movic', 'AT-X', 'ASCII Media Works', 'Bushiroad', 'MAGES.', 'Asahi Broadcasting', 'BS11']",Aniplex of America,Doga Kobo,Original,"['Drama', 'Romance', 'Sci-Fi']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,11262
+
+Black Bullet,3576,7.10,166,879510,TV,13,Finished Airing,"Apr 8, 2014 to Jul 1, 2014",Spring 2014,"['Geneon Universal Entertainment', 'AT-X', 'Showgate', 'NBCUniversal Entertainment Japan']",Sentai Filmworks,Kinema Citrus,novel,"['Action', 'Mystery', 'Sci-Fi']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),3677
+
+Gekkan Shoujo Nozaki-kun,841,7.84,167,877556,TV,12,Finished Airing,"Jul 7, 2014 to Sep 22, 2014",Summer 2014,"['TV Tokyo', 'Frontier Works', 'Media Factory', 'AT-X', 'Sony Music Communications']",Sentai Filmworks,Doga Kobo,manga,"['Comedy', 'Romance']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,10633
+
+Suzumiya Haruhi no Yuuutsu,866,7.83,168,874737,TV,14,Finished Airing,"Apr 3, 2006 to Jul 3, 2006",Spring 2006,"['Lantis', 'Kadokawa Shoten', 'Kadokawa Pictures Japan', 'KlockWorx']",Funimation,Kyoto Animation,novel,"['Award Winning', 'Comedy', 'Mystery', 'Sci-Fi', 'Slice of Life']",School,nan,23 min. per ep.,PG-13 - Teens 13 or older,14761
+
+High School DxD New,1795,7.48,169,865709,TV,12,Finished Airing,"Jul 7, 2013 to Sep 22, 2013",Summer 2013,"['Genco', 'AT-X', 'Fujimi Shobo']",Funimation,TNK,novel,"['Action', 'Comedy', 'Romance', 'Ecchi']",nan,nan,26 min. per ep.,R+ - Mild Nudity,4439
+
+Hellsing Ultimate,198,8.36,170,865306,OVA,10,Finished Airing,"Feb 10, 2006 to Dec 26, 2012",nan,"['Geneon Universal Entertainment', 'StudioRF Inc.', 'Shounen Gahousha']",Funimation,Madhouse,Manga,"['Action', 'Horror', 'Supernatural']",nan,Seinen,49 min. per ep.,R - 17+ (violence & profanity),20480
+
+Baccano!,186,8.37,171,862749,TV,13,Finished Airing,"Jul 27, 2007 to Nov 2, 2007",Summer 2007,"['Aniplex', 'Sakura Create', 'Happinet Pictures']",Funimation,Brain's Base,novel,"['Action', 'Comedy', 'Mystery', 'Supernatural']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),22721
+
+Sono Bisque Doll wa Koi wo Suru,274,8.27,172,862060,TV,12,Finished Airing,"Jan 9, 2022 to Mar 27, 2022",Winter 2022,"['Aniplex', 'Square Enix', 'Movic', 'Studio Mausu', 'Tokyo MX', 'BS11']",add some,CloverWorks,Manga,"['Romance', 'Slice of Life']",nan,Seinen,23 min. per ep.,PG-13 - Teens 13 or older,17806
+
+Ao Haru Ride,1285,7.64,173,860391,TV,12,Finished Airing,"Jul 8, 2014 to Sep 23, 2014",Summer 2014,"['Mainichi Broadcasting System', 'Movic', 'Sony Music Entertainment', 'TOHO animation', 'Shueisha', 'BS11', 'Animatic', 'Hakuhodo DY Media Partners', 'Sony PCL']",Sentai Filmworks,Production I.G,Manga,[],School,Shoujo,23 min. per ep.,PG-13 - Teens 13 or older,9782
+
+Kimi ni Todoke,587,8.00,174,859397,TV,25,Finished Airing,"Oct 7, 2009 to Mar 31, 2010",Fall 2009,"['VAP', 'Nippon Television Network', 'Shueisha']","NIS America, Inc.",Production I.G,Manga,"['Drama', 'Romance']",School,Shoujo,22 min. per ep.,PG-13 - Teens 13 or older,12351
+
+Yakusoku no Neverland 2nd Season,12175,5.32,175,856573,TV,11,Finished Airing,"Jan 8, 2021 to Mar 26, 2021",Winter 2021,"['Aniplex', 'Shueisha']",Aniplex of America,CloverWorks,Manga,"['Sci-Fi', 'Suspense']",nan,Shounen,22 min. per ep.,R - 17+ (violence & profanity),4500
+
+5-toubun no Hanayome,1215,7.67,176,856292,TV,12,Finished Airing,"Jan 11, 2019 to Mar 29, 2019",Winter 2019,"['Pony Canyon', 'Kodansha', 'ZERO-A', 'GYAO!']",Funimation,Tezuka Productions,Manga,"['Comedy', 'Romance']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,12914
+
+Kimi no Suizou wo Tabetai,97,8.56,177,853722,Movie,1,Finished Airing,"Sep 1, 2018",nan,"['Aniplex', 'ABC Animation']",Aniplex of America,Studio VOLN,Novel,"['Drama', 'Romance']",School,nan,1 hr. 48 min.,PG-13 - Teens 13 or older,18749
+
+Neon Genesis Evangelion: The End of Evangelion,101,8.55,178,848626,Movie,1,Finished Airing,"Jul 19, 1997",nan,"['TV Tokyo', 'Toei Animation', 'Kadokawa Shoten', 'Movic', 'Sega', 'TV Tokyo Music', 'Audio Tanaka']",GKIDS,Gainax,Original,"['Avant Garde', 'Drama', 'Sci-Fi']",nan,nan,1 hr. 26 min.,R+ - Mild Nudity,26285
+
+Haikyuu!! To the Top,197,8.36,179,843820,TV,13,Finished Airing,"Jan 11, 2020 to Apr 4, 2020",Winter 2020,"['Dentsu', 'Mainichi Broadcasting System', 'Movic', 'Sony Music Entertainment', 'TOHO animation', 'Shueisha']",Sentai Filmworks,Production I.G,Manga,[],nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,4941
+
+Kami no Tou,1529,7.56,180,839263,TV,13,Finished Airing,"Apr 2, 2020 to Jun 25, 2020",Spring 2020,"['Sega', 'Rialto Entertainment', 'Sola Entertainment', 'Naver Webtoons', 'IRMA LA DOUCE']",VIZ Media,Telecom Animation Film,manga,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Mystery']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,6025
+
+Youjo Senki,625,7.97,181,839055,TV,12,Finished Airing,"Jan 6, 2017 to Mar 31, 2017",Winter 2017,"['Media Factory', 'AT-X', 'Enterbrain', 'Sony Music Communications']",Funimation,Nut,novel,"['Action', 'Fantasy']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),11316
+
+Mahoutsukai no Yome,504,8.06,182,837210,TV,24,Finished Airing,"Oct 8, 2017 to Mar 25, 2018",Fall 2017,"['Production I.G', 'Shochiku', 'flying DOG', 'Mag Garden']",Funimation,Wit Studio,Manga,"['Fantasy', 'Supernatural']",Mythology,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,10870
+
+Nichijou,139,8.46,183,830158,TV,26,Finished Airing,"Apr 3, 2011 to Sep 25, 2011",Spring 2011,"['Lantis', 'Kadokawa Shoten', 'Movic', 'Rakuonsha', 'Kadokawa Pictures Japan', 'KlockWorx', 'Animation Do']",Funimation,Kyoto Animation,Manga,[],nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,21993
+
+Yuri!!! on Ice,735,7.90,184,829022,TV,12,Finished Airing,"Oct 6, 2016 to Dec 22, 2016",Fall 2016,"['Dentsu', 'TV Asahi', 'Movic', 'Avex Pictures', 'CIC', 'Cygames']",Funimation,MAPPA,Original,"['Award Winning', 'Sports']",Performing Arts,nan,23 min. per ep.,PG-13 - Teens 13 or older,19853
+
+The God of High School,3755,7.07,185,828920,TV,13,Finished Airing,"Jul 6, 2020 to Sep 28, 2020",Summer 2020,"['Crunchyroll', 'Sola Entertainment', 'Naver Webtoons']",VIZ Media,MAPPA,manga,"['Action', 'Fantasy']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,3954
+
+Tensei shitara Slime Datta Ken 2nd Season,180,8.39,186,828687,TV,12,Finished Airing,"Jan 12, 2021 to Mar 30, 2021",Winter 2021,['Kodansha'],Funimation,8bit,Manga,"['Action', 'Adventure', 'Comedy', 'Fantasy']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,10096
+
+Overlord III,693,7.92,187,823961,TV,13,Finished Airing,"Jul 10, 2018 to Oct 2, 2018",Summer 2018,"['AT-X', 'Hakuhodo DY Music & Pictures', 'NTT Plala', 'Kadokawa']",Funimation,Madhouse,novel,"['Action', 'Adventure', 'Fantasy']",Isekai,nan,23 min. per ep.,R - 17+ (violence & profanity),5185
+
+Kekkai Sensen,1388,7.60,188,821356,TV,12,Finished Airing,"Apr 5, 2015 to Oct 4, 2015",Spring 2015,"['Nihon Ad Systems', 'Mainichi Broadcasting System', 'TOHO animation', 'Shueisha', ""Toy's Factory"", 'Sony PCL']",Funimation,Bones,Manga,"['Action', 'Comedy', 'Fantasy', 'Supernatural']",nan,Shounen,26 min. per ep.,R - 17+ (violence & profanity),7413
+
+Btooom!,2542,7.30,189,818235,TV,12,Finished Airing,"Oct 4, 2012 to Dec 20, 2012",Fall 2012,"['Sotsu', 'KlockWorx', 'flying DOG', 'Showgate']",Sentai Filmworks,Madhouse,Manga,"['Action', 'Sci-Fi']",nan,Seinen,24 min. per ep.,R - 17+ (violence & profanity),3322
+
+No Game No Life: Zero,326,8.21,190,810979,Movie,1,Finished Airing,"Jul 15, 2017",nan,"['Frontier Works', 'Movic', 'AT-X', 'Kadokawa']",Sentai Filmworks,Madhouse,novel,"['Drama', 'Fantasy', 'Romance']",Isekai,nan,1 hr. 46 min.,PG-13 - Teens 13 or older,7445
+
+Steins;Gate 0,119,8.52,191,806603,TV,23,Finished Airing,"Apr 12, 2018 to Sep 27, 2018",Spring 2018,"['Frontier Works', 'Media Factory', 'Kadokawa Shoten', 'Movic']",Funimation,White Fox,novel,"['Drama', 'Sci-Fi', 'Suspense']",Time Travel,nan,23 min. per ep.,PG-13 - Teens 13 or older,11125
+
+Boruto: Naruto Next Generations,10707,5.72,192,804430,TV,Unknown,Currently Airing,"Apr 5, 2017 to ?",Spring 2017,"['TV Tokyo', 'Aniplex', 'Rakuonsha', 'Shueisha']",VIZ Media,Pierrot,Manga,"['Action', 'Adventure', 'Fantasy']",Martial Arts,Shounen,23 min.,PG-13 - Teens 13 or older,6807
+
+Fate/stay night: Unlimited Blade Works 2nd Season,221,8.32,193,802171,TV,13,Finished Airing,"Apr 5, 2015 to Jun 28, 2015",Spring 2015,"['Aniplex', 'Notes']",Aniplex of America,ufotable,novel,"['Action', 'Fantasy', 'Supernatural']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),8942
+
+Kotonoha no Niwa,716,7.90,194,801001,Movie,1,Finished Airing,"May 31, 2013",nan,"['The Answer Studio', 'TOHO animation']",Sentai Filmworks,CoMix Wave Films,Original,"['Award Winning', 'Drama', 'Romance']",Visual Arts,nan,46 min.,PG-13 - Teens 13 or older,6628
+
+Kuroko no Basket 2nd Season,316,8.22,195,799045,TV,25,Finished Airing,"Oct 6, 2013 to Mar 30, 2014",Fall 2013,"['Bandai Visual', 'Lantis', 'Nihon Ad Systems', 'Banpresto', 'Shueisha', 'BS11']",add some,Production I.G,Manga,[],nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,4275
+
+Magi: The Kingdom of Magic,318,8.22,196,798624,TV,25,Finished Airing,"Oct 6, 2013 to Mar 30, 2014",Fall 2013,"['Aniplex', 'Dentsu', 'Shogakukan-Shueisha Productions', 'Mainichi Broadcasting System', 'Movic', 'GYAO!']",Aniplex of America,A-1 Pictures,Manga,"['Action', 'Adventure', 'Fantasy']",nan,Shounen,25 min. per ep.,PG-13 - Teens 13 or older,7540
+
+Tokyo Ghoul:re 2nd Season,7108,6.42,197,797313,TV,12,Finished Airing,"Oct 9, 2018 to Dec 25, 2018",Fall 2018,"['Marvelous', 'TC Entertainment', 'Shueisha']",Funimation,Pierrot,Manga,"['Action', 'Fantasy', 'Horror']",nan,Seinen,24 min. per ep.,R - 17+ (violence & profanity),2622
+
+Masamune-kun no Revenge,5287,6.74,198,794876,TV,12,Finished Airing,"Jan 5, 2017 to Mar 23, 2017",Winter 2017,"['Sotsu', 'Lantis', 'AT-X', 'KlockWorx', 'BS Fuji', 'Tokyo MX', 'Ichijinsha', 'FuRyu', 'Crunchyroll SC Anime Fund']",Funimation,SILVER LINK.,Manga,"['Comedy', 'Romance']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,3022
+
+Kokoro Connect,988,7.76,199,794437,TV,13,Finished Airing,"Jul 8, 2012 to Sep 30, 2012",Summer 2012,"['Starchild Records', 'Enterbrain']",Sentai Filmworks,SILVER LINK.,novel,"['Drama', 'Romance', 'Supernatural']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,7779
+
+Trinity Seven,3758,7.07,200,793230,TV,12,Finished Airing,"Oct 8, 2014 to Dec 24, 2014",Fall 2014,"['TV Tokyo', 'Sotsu', 'Kadokawa Shoten', 'AT-X', 'Studio Mausu', 'Avex Pictures', 'Q-Tec', 'Docomo Anime Store', 'DeNA']",Sentai Filmworks,Seven Arcs Pictures,Manga,"['Action', 'Comedy', 'Fantasy', 'Romance', 'Ecchi']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,3712
+
+Akatsuki no Yona,538,8.03,201,792813,TV,24,Finished Airing,"Oct 7, 2014 to Mar 24, 2015",Fall 2014,"['VAP', 'Hakusensha', 'AT-X', 'Delfi Sound', 'Marvelous AQL', 'Tokyo MX', 'Age Global Networks', 'Docomo Anime Store', 'Top-Insight International']",Funimation,Pierrot,Manga,"['Action', 'Adventure', 'Fantasy', 'Romance']",nan,Shoujo,24 min. per ep.,PG-13 - Teens 13 or older,15105
+
+Beastars,804,7.85,202,783073,TV,12,Finished Airing,"Oct 10, 2019 to Dec 26, 2019",Fall 2019,"['Movic', 'Fuji TV', 'Bandai', 'Toho', 'BS Fuji', 'TOHO animation', 'Q-Tec', 'Akita Shoten', 'Hakuhodo DY Media Partners', 'Bandai Spirits', 'Toho Music']",add some,Orange,Manga,"['Drama', 'Slice of Life']",nan,Shounen,22 min. per ep.,R - 17+ (violence & profanity),9278
+
+Zero no Tsukaima,2835,7.24,203,780502,TV,13,Finished Airing,"Jul 3, 2006 to Sep 25, 2006",Summer 2006,"['Genco', 'Media Factory', 'Shochiku', 'Bushiroad', 'Happinet Pictures']",Sentai Filmworks,J.C.Staff,novel,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance', 'Ecchi']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,7767
+
+Banana Fish,130,8.49,204,779219,TV,24,Finished Airing,"Jul 6, 2018 to Dec 21, 2018",Summer 2018,"['Aniplex', 'Dentsu', 'Movic', 'Fuji TV', 'Shogakukan']",add some,MAPPA,Manga,"['Action', 'Adventure', 'Drama', 'Suspense']",nan,Shoujo,22 min. per ep.,R - 17+ (violence & profanity),28138
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2,140,8.46,205,777727,TV,12,Finished Airing,"Jan 6, 2021 to Mar 24, 2021",Winter 2021,"['AT-X', 'Memory-Tech', 'Hakuhodo DY Music & Pictures', 'Kadokawa Media House', 'Kadokawa']",add some,White Fox,novel,"['Drama', 'Fantasy', 'Suspense']",nan,nan,29 min. per ep.,R - 17+ (violence & profanity),11559
+
+Akira,387,8.16,206,776640,Movie,1,Finished Airing,"Jul 16, 1988",nan,"['Mainichi Broadcasting System', 'Kodansha', 'Toho', 'Streamline Pictures']",Funimation,Tokyo Movie Shinsha,Manga,"['Action', 'Adventure', 'Horror', 'Sci-Fi', 'Supernatural']",nan,Seinen,2 hr. 4 min.,R+ - Mild Nudity,12449
+
+Mushishi,60,8.67,207,775937,TV,26,Finished Airing,"Oct 23, 2005 to Jun 19, 2006",Fall 2005,"['Avex Entertainment', 'Marvelous', 'SKY Perfect Well Think', 'Delfi Sound']",Funimation,Artland,Manga,"['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural']",nan,Seinen,25 min. per ep.,PG-13 - Teens 13 or older,25512
+
+Toaru Majutsu no Index,2285,7.36,208,774461,TV,24,Finished Airing,"Oct 5, 2008 to Mar 19, 2009",Fall 2008,"['Geneon Universal Entertainment', 'Square Enix', 'AT-X', 'ASCII Media Works', 'Kadokawa Contents Gate']",Funimation,J.C.Staff,novel,"['Action', 'Sci-Fi']",Super Power,nan,23 min. per ep.,R - 17+ (violence & profanity),5388
+
+Boku wa Tomodachi ga Sukunai,3261,7.17,209,774493,TV,12,Finished Airing,"Oct 7, 2011 to Dec 23, 2011",Fall 2011,"['AIC', 'Media Factory', 'TBS', 'Bushiroad', 'Bandai Namco Games', 'Good Smile Company']",Funimation,AIC Build,novel,"['Comedy', 'Romance', 'Ecchi']",nan,nan,24 min. per ep.,R+ - Mild Nudity,3722
+
+Danshi Koukousei no Nichijou,297,8.24,210,773485,TV,12,Finished Airing,"Jan 10, 2012 to Mar 27, 2012",Winter 2012,"['TV Tokyo', 'Square Enix', 'Trinity Sound', 'Happinet Pictures']","NIS America, Inc.",Sunrise,manga,[],nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,13551
+
+Fumetsu no Anata e,187,8.37,211,773344,TV,20,Finished Airing,"Apr 12, 2021 to Aug 30, 2021",Spring 2021,"['NHK', 'Kodansha', 'NHK Enterprises']",add some,Brain's Base,Manga,"['Adventure', 'Drama', 'Supernatural']",nan,Shounen,25 min. per ep.,R - 17+ (violence & profanity),13064
+
+Hotarubi no Mori e,253,8.29,212,771652,Movie,1,Finished Airing,"Sep 17, 2011",nan,"['TV Tokyo', 'Aniplex', 'Nihon Ad Systems', 'Hakusensha', 'DAX Production']",add some,Brain's Base,Manga,"['Award Winning', 'Drama', 'Romance', 'Supernatural']",nan,Shoujo,45 min.,G - All Ages,9870
+
+Ookami to Koushinryou,306,8.23,213,770704,TV,13,Finished Airing,"Jan 9, 2008 to Mar 26, 2008",Winter 2008,"['Victor Entertainment', 'Pony Canyon', 'Movic', 'Kadokawa Pictures Japan']",Funimation,Imagin,novel,"['Adventure', 'Fantasy', 'Romance']",Adult Cast,nan,24 min. per ep.,PG-13 - Teens 13 or older,17365
+
+Orange,1351,7.62,214,769030,TV,13,Finished Airing,"Jul 4, 2016 to Sep 26, 2016",Summer 2016,"['TMS Entertainment', 'DAX Production', 'TOHO animation', 'Lawson', 'ABC Animation', 'MediaLink Entertainment Limited']",Funimation,Telecom Animation Film,Manga,"['Drama', 'Romance', 'Sci-Fi']",nan,Shoujo,24 min. per ep.,PG-13 - Teens 13 or older,6533
+
+Great Teacher Onizuka,54,8.69,215,767101,TV,43,Finished Airing,"Jun 30, 1999 to Sep 17, 2000",Summer 1999,"['Aniplex', 'Fuji TV']",Discotek Media,Pierrot,Manga,"['Comedy', 'Drama']",nan,Shounen,25 min. per ep.,R - 17+ (violence & profanity),24618
+
+Ookami Kodomo no Ame to Yuki,88,8.58,216,766947,Movie,1,Finished Airing,"Jul 21, 2012",nan,"['Madhouse', 'VAP', 'Dentsu', 'Yomiuri Telecasting', 'Kadokawa Shoten', 'Toho', 'Hiroshima Television']",Funimation,Studio Chizu,Original,"['Award Winning', 'Fantasy', 'Slice of Life']",Childcare,nan,1 hr. 57 min.,G - All Ages,10911
+
+FLCL,543,8.03,217,766584,OVA,6,Finished Airing,"Apr 26, 2000 to Mar 16, 2001",nan,"['Starchild Records', 'GANSIS']",Funimation,Gainax,Original,"['Action', 'Avant Garde', 'Comedy', 'Sci-Fi']",nan,nan,25 min. per ep.,PG-13 - Teens 13 or older,28117
+
+Higurashi no Naku Koro ni,754,7.89,218,765760,TV,26,Finished Airing,"Apr 5, 2006 to Sep 27, 2006",Spring 2006,"['Geneon Universal Entertainment', 'Frontier Works', 'Sotsu', 'DAX Production']",Sentai Filmworks,Studio Deen,novel,"['Horror', 'Mystery', 'Supernatural', 'Suspense']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),20424
+
+"Komi-san wa, Comyushou desu.",632,7.96,219,765852,TV,12,Finished Airing,"Oct 7, 2021 to Dec 23, 2021",Fall 2021,"['TV Tokyo', 'Dentsu', 'Shogakukan-Shueisha Productions', 'Half H.P Studio', 'Nippon Columbia']",add some,OLM,Manga,[],nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,11472
+
+Bungou Stray Dogs 2nd Season,346,8.20,220,765466,TV,12,Finished Airing,"Oct 6, 2016 to Dec 16, 2016",Fall 2016,"['Lantis', 'Movic', 'KlockWorx', 'Bandai Namco Live Creative', 'Glovision', 'Lawson HMV Entertainment', 'Sony PCL']",Funimation,Bones,Manga,"['Action', 'Mystery', 'Supernatural']",nan,Seinen,23 min. per ep.,R - 17+ (violence & profanity),6477
+
+Dragon Ball Super,2010,7.42,221,764264,TV,131,Finished Airing,"Jul 5, 2015 to Mar 25, 2018",Summer 2015,"['Yomiko Advertising', 'Fuji TV']",Funimation,Toei Animation,Manga,"['Action', 'Adventure', 'Comedy', 'Fantasy']",nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,9620
+
+Koutetsujou no Kabaneri,2738,7.26,222,763241,TV,12,Finished Airing,"Apr 8, 2016 to Jul 1, 2016",Spring 2016,"['Aniplex', 'Dentsu', 'Fuji TV', 'Kyoraku Industrial Holdings', 'Kansai Telecasting']",Funimation,Wit Studio,Original,"['Action', 'Drama', 'Fantasy', 'Horror']",nan,nan,22 min. per ep.,R - 17+ (violence & profanity),3354
+
+Free!,2343,7.34,223,761594,TV,12,Finished Airing,"Jul 4, 2013 to Sep 26, 2013",Summer 2013,"['Lantis', 'Iwatobi High School Swimming Club', 'Asahi Broadcasting']",Funimation,Kyoto Animation,Original,[],School,nan,23 min. per ep.,PG-13 - Teens 13 or older,9367
+
+High School DxD BorN,1974,7.43,224,756768,TV,12,Finished Airing,"Apr 4, 2015 to Jun 20, 2015",Spring 2015,"['Genco', 'Lantis', 'AT-X', 'Fujimi Shobo']",Funimation,TNK,novel,"['Action', 'Comedy', 'Romance', 'Ecchi']",nan,nan,24 min. per ep.,R+ - Mild Nudity,3831
+
+Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,2882,7.24,225,754542,TV,12,Finished Airing,"Jul 4, 2015 to Sep 19, 2015",Summer 2015,"['Frontier Works', 'Shogakukan-Shueisha Productions', 'Genco', 'Starchild Records', 'AT-X', 'KlockWorx']",Funimation,J.C.Staff,novel,"['Comedy', 'Ecchi']",nan,nan,23 min. per ep.,R+ - Mild Nudity,3723
+
+"Gate: Jieitai Kanochi nite, Kaku Tatakaeri",1163,7.69,226,753354,TV,12,Finished Airing,"Jul 4, 2015 to Sep 19, 2015",Summer 2015,"['Genco', 'Magic Capsule', 'Warner Bros. Japan', 'KlockWorx', 'Showgate', 'Bandai Namco Games']",Sentai Filmworks,A-1 Pictures,novel,"['Action', 'Adventure', 'Fantasy']",nan,nan,23 min. per ep.,R - 17+ (violence & profanity),5899
+
+Toki wo Kakeru Shoujo,437,8.12,227,751154,Movie,1,Finished Airing,"Jul 15, 2006",nan,"['Kadokawa Shoten', 'Bandai', 'Memory-Tech', 'Happinet Pictures']",Funimation,Madhouse,Novel,"['Award Winning', 'Drama', 'Romance', 'Sci-Fi']",nan,nan,1 hr. 39 min.,G - All Ages,5694
+
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,2933,7.23,228,747294,TV,12,Finished Airing,"Jul 13, 2019 to Sep 28, 2019",Summer 2019,"['Genco', 'Movic', 'Warner Bros. Japan', 'KlockWorx', 'SoftBank Creative', 'Hakuhodo DY Music & Pictures', 'Egg Firm', 'FuRyu', 'GREE']",Sentai Filmworks,J.C.Staff,novel,"['Action', 'Adventure', 'Fantasy']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,1987
+
+InuYasha,789,7.86,229,746863,TV,167,Finished Airing,"Oct 16, 2000 to Sep 13, 2004",Fall 2000,"['Yomiuri Telecasting', 'Shogakukan']",VIZ Media,Sunrise,Manga,"['Action', 'Adventure', 'Fantasy', 'Romance']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,17442
+
+Shinsekai yori,244,8.29,231,742916,TV,25,Finished Airing,"Sep 29, 2012 to Mar 23, 2013",Fall 2012,"['Aniplex', 'TV Asahi', 'Pony Canyon']",Sentai Filmworks,A-1 Pictures,Novel,"['Drama', 'Horror', 'Mystery', 'Sci-Fi', 'Supernatural']",Psychological,nan,22 min. per ep.,R - 17+ (violence & profanity),21565
+
+Fruits Basket 1st Season,312,8.22,232,738483,TV,25,Finished Airing,"Apr 6, 2019 to Sep 21, 2019",Spring 2019,"['TV Tokyo', 'TV Osaka', 'Nihon Ad Systems', 'Hakusensha', 'Avex Pictures', 'TMS Music', '8PAN']",Funimation,TMS Entertainment,Manga,"['Drama', 'Romance', 'Supernatural']",nan,Shoujo,23 min. per ep.,PG-13 - Teens 13 or older,14313
+
+Owari no Seraph: Nagoya Kessen-hen,1352,7.62,233,736842,TV,12,Finished Airing,"Oct 10, 2015 to Dec 26, 2015",Fall 2015,"['NBCUniversal Entertainment Japan', 'Shueisha']",Funimation,Wit Studio,Manga,"['Action', 'Drama', 'Supernatural']",nan,Shounen,23 min. per ep.,R - 17+ (violence & profanity),2857
+
+Yamada-kun to 7-nin no Majo,1533,7.56,234,736231,TV,12,Finished Airing,"Apr 12, 2015 to Jun 28, 2015",Spring 2015,"['Dentsu', 'Frontier Works', 'Kodansha', 'Rakuonsha', 'Ultra Super Pictures', 'Memory-Tech', 'Daiichikosho', 'Lawson HMV Entertainment', 'Amuse', 'Animatic', 'A-Sketch']",Funimation,LIDENFILMS,Manga,"['Comedy', 'Mystery', 'Romance', 'Supernatural']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,3950
+
+K,1960,7.44,235,727745,TV,13,Finished Airing,"Oct 5, 2012 to Dec 28, 2012",Fall 2012,"['Starchild Records', 'Mainichi Broadcasting System', 'KlockWorx']",VIZ Media,GoHands,Original,"['Action', 'Mystery', 'Supernatural']",Super Power,nan,24 min. per ep.,PG-13 - Teens 13 or older,6567
+
+Haikyuu!! To the Top Part 2,98,8.55,236,723639,TV,12,Finished Airing,"Oct 3, 2020 to Dec 19, 2020",Fall 2020,"['Dentsu', 'Mainichi Broadcasting System', 'Movic', 'Sony Music Entertainment', 'TOHO animation', 'Shueisha']",Sentai Filmworks,Production I.G,Manga,[],nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,5782
+
+Mushoku Tensei: Isekai Ittara Honki Dasu Part 2,48,8.71,237,723840,TV,12,Finished Airing,"Oct 4, 2021 to Dec 20, 2021",Fall 2021,"['Frontier Works', 'TOHO animation', 'Tokyo MX', 'Hakuhodo DY Music & Pictures', 'BS11', 'Egg Firm', 'Kadokawa', 'GREE Entertainment']",Funimation,Studio Bind,novel,"['Drama', 'Fantasy', 'Ecchi']",nan,nan,23 min. per ep.,R - 17+ (violence & profanity),16187
+
+Sakamoto desu ga?,1505,7.56,238,722503,TV,12,Finished Airing,"Apr 8, 2016 to Jul 1, 2016",Spring 2016,"['Kadokawa Shoten', 'TBS', 'DAX Production', 'Daiichikosho', 'King Records', 'NichiNare']",Sentai Filmworks,Studio Deen,Manga,[],nan,Seinen,24 min. per ep.,PG-13 - Teens 13 or older,2505
+
+"Ijiranaide, Nagatoro-san",2410,7.33,239,716557,TV,12,Finished Airing,"Apr 11, 2021 to Jun 27, 2021",Spring 2021,"['TMS Entertainment', 'Mainichi Broadcasting System', 'Kodansha', 'King Records']",add some,Telecom Animation Film,Manga,[],nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,8453
+
+Kakegurui xx,3118,7.20,240,716010,TV,12,Finished Airing,"Jan 9, 2019 to Mar 27, 2019",Winter 2019,"['Dentsu', 'Square Enix', 'Mainichi Broadcasting System', 'Movic', 'KlockWorx', 'flying DOG', '81 Produce', 'Avex Pictures']",Sentai Filmworks,MAPPA,Manga,"['Drama', 'Mystery']",nan,Shounen,24 min. per ep.,R - 17+ (violence & profanity),1923
+
+Ao no Exorcist: Kyoto Fujouou-hen,2255,7.36,241,711411,TV,12,Finished Airing,"Jan 7, 2017 to Mar 25, 2017",Winter 2017,"['Aniplex', 'Dentsu', 'Mainichi Broadcasting System', 'Movic', 'Shueisha']",Aniplex of America,A-1 Pictures,Manga,"['Action', 'Fantasy']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,1548
+
+Kuroko no Basket 3rd Season,240,8.30,242,708437,TV,25,Finished Airing,"Jan 11, 2015 to Jun 30, 2015",Winter 2015,"['Bandai Visual', 'Lantis', 'Nihon Ad Systems', 'Banpresto', 'Shueisha', 'BS11']",add some,Production I.G,Manga,[],nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,4988
+
+Monster Musume no Iru Nichijou,4158,6.98,243,707655,TV,12,Finished Airing,"Jul 8, 2015 to Sep 23, 2015",Summer 2015,"['Genco', 'Studio Hibari', 'TOHO animation', 'Toho Music']",Sentai Filmworks,Lerche,Manga,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",nan,Seinen,23 min. per ep.,R+ - Mild Nudity,3817
+
+Grand Blue,159,8.43,244,701291,TV,12,Finished Airing,"Jul 14, 2018 to Sep 29, 2018",Summer 2018,"['Mainichi Broadcasting System', 'Kodansha', 'NBCUniversal Entertainment Japan', 'Avex Pictures', 'Q-Tec', 'JR East Marketing & Communications', 'GYAO!']",add some,Zero-G,Manga,[],Adult Cast,Seinen,24 min. per ep.,PG-13 - Teens 13 or older,17730
+
+Nisemonogatari,398,8.15,245,699858,TV,11,Finished Airing,"Jan 8, 2012 to Mar 18, 2012",Winter 2012,"['Aniplex', 'Kodansha', 'Rakuonsha']",Aniplex of America,Shaft,novel,"['Comedy', 'Mystery', 'Supernatural', 'Ecchi']",nan,nan,25 min. per ep.,R - 17+ (violence & profanity),3834
+
+Trigun,330,8.21,246,699457,TV,26,Finished Airing,"Apr 1, 1998 to Sep 30, 1998",Spring 1998,['Victor Entertainment'],Funimation,Madhouse,Manga,"['Action', 'Adventure', 'Sci-Fi']",Adult Cast,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,14232
+
+Chuunibyou demo Koi ga Shitai! Ren,1560,7.55,247,698893,TV,12,Finished Airing,"Jan 9, 2014 to Mar 27, 2014",Winter 2014,"['Lantis', 'TBS']",Sentai Filmworks,Kyoto Animation,novel,"['Comedy', 'Romance']",School,nan,24 min. per ep.,PG-13 - Teens 13 or older,2474
+
+"Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",2173,7.38,248,696720,TV,13,Finished Airing,"Jul 4, 2020 to Sep 26, 2020",Summer 2020,"['Aniplex', 'Movic', 'AT-X', 'Studio Mausu', 'Tokyo MX', 'Q-Tec', 'Docomo Anime Store', 'Medicos Entertainment', 'BS11', 'Contents Seed', 'Kadokawa', 'ADK Marketing Solutions']",Aniplex of America,SILVER LINK.,novel,"['Action', 'Fantasy']",nan,nan,23 min. per ep.,R - 17+ (violence & profanity),5540
+
+Kiznaiver,2168,7.38,249,696252,TV,12,Finished Airing,"Apr 9, 2016 to Jun 25, 2016",Spring 2016,"['Aniplex', 'Movic', 'Ultra Super Pictures', 'Sammy', 'Asahi Broadcasting', 'BS11', 'Crunchyroll']",Aniplex of America,Trigger,Original,"['Drama', 'Romance', 'Sci-Fi']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,4776
+
+Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu,138,8.46,250,693406,Movie,1,Finished Airing,"Aug 30, 2019",nan,"['Nippon Columbia', 'Toranoana', 'MAGES.', '81 Produce', 'Sammy', 'Kadokawa Media House', 'Kadokawa', 'Sony Music Solutions']",add some,J.C.Staff,novel,"['Adventure', 'Comedy', 'Fantasy']",nan,nan,1 hr. 30 min.,PG-13 - Teens 13 or older,4536
+
+Boku no Hero Academia the Movie 1: Futari no Hero,1471,7.57,251,691100,Movie,1,Finished Airing,"Aug 3, 2018",nan,"['TOHO animation', 'Shueisha', 'Toho Music']",Funimation,Bones,Manga,[],Super Power,Shounen,1 hr. 36 min.,PG-13 - Teens 13 or older,1357
+
+Serial Experiments Lain,484,8.08,252,689501,TV,13,Finished Airing,"Jul 6, 1998 to Sep 28, 1998",Summer 1998,"['TV Tokyo', 'Geneon Universal Entertainment', 'Genco', 'Pioneer LDC', 'TV Tokyo Music', 'Fujipacific Music']",Funimation,Triangle Staff,Original,"['Avant Garde', 'Award Winning', 'Drama', 'Mystery', 'Sci-Fi', 'Supernatural']",Psychological,nan,23 min. per ep.,R - 17+ (violence & profanity),24356
+
+Sword Art Online: Alicization - War of Underworld,1443,7.58,253,689088,TV,12,Finished Airing,"Oct 13, 2019 to Dec 29, 2019",Fall 2019,"['Aniplex', 'Bandai Namco Entertainment', 'Egg Firm', 'Straight Edge', 'Kadokawa', 'Sonilude']",Aniplex of America,A-1 Pictures,novel,"['Action', 'Adventure', 'Fantasy']",Video Game,nan,23 min. per ep.,R - 17+ (violence & profanity),3460
+
+Accel World,2922,7.23,254,688348,TV,24,Finished Airing,"Apr 7, 2012 to Sep 22, 2012",Spring 2012,"['Genco', 'Rakuonsha', 'Warner Bros. Japan', 'flying DOG', 'ASCII Media Works']",VIZ Media,Sunrise,novel,"['Action', 'Romance', 'Sci-Fi']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,3856
+
+NHK ni Youkoso!,231,8.31,255,688310,TV,24,Finished Airing,"Jul 10, 2006 to Dec 18, 2006",Summer 2006,"['NHK', 'Victor Entertainment']",ADV Films,Gonzo,Novel,"['Comedy', 'Drama', 'Romance']",nan,nan,24 min. per ep.,R+ - Mild Nudity,24762
+
+Hai to Gensou no Grimgar,1259,7.65,256,685626,TV,12,Finished Airing,"Jan 11, 2016 to Mar 28, 2016",Winter 2016,['TOHO animation'],Funimation,A-1 Pictures,novel,"['Action', 'Adventure', 'Drama', 'Fantasy']",Isekai,nan,24 min. per ep.,R - 17+ (violence & profanity),5830
+
+Wonder Egg Priority,1248,7.66,257,684931,TV,12,Finished Airing,"Jan 13, 2021 to Mar 31, 2021",Winter 2021,"['Aniplex', 'D.N. Dream Partners']",Funimation,CloverWorks,Original,"['Drama', 'Fantasy']",Psychological,nan,23 min. per ep.,R - 17+ (violence & profanity),8591
+
+Domestic na Kanojo,5595,6.68,258,684634,TV,12,Finished Airing,"Jan 12, 2019 to Mar 30, 2019",Winter 2019,"['Mainichi Broadcasting System', 'Kodansha', 'flying DOG', 'DMM pictures', 'Bit Promotion']",Sentai Filmworks,Diomedea,Manga,"['Drama', 'Romance']",nan,Shounen,25 min. per ep.,R+ - Mild Nudity,5479
+
+Sword Art Online Movie: Ordinal Scale,1495,7.57,259,682130,Movie,1,Finished Airing,"Feb 18, 2017",nan,"['Aniplex', 'Genco', 'ASCII Media Works', 'Bandai Namco Entertainment', 'Egg Firm']",Aniplex of America,A-1 Pictures,Original,"['Action', 'Adventure', 'Fantasy']",Video Game,nan,1 hr. 59 min.,R+ - Mild Nudity,3393
+
+Enen no Shouboutai: Ni no Shou,909,7.80,260,681699,TV,24,Finished Airing,"Jul 4, 2020 to Dec 12, 2020",Summer 2020,"['Mainichi Broadcasting System', 'Kodansha', 'bilibili', 'DMM pictures', 'DMM Music']",Funimation,David Production,Manga,"['Action', 'Supernatural']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,2613
+
+Tsurezure Children,1482,7.57,261,680912,TV,12,Finished Airing,"Jul 4, 2017 to Sep 19, 2017",Summer 2017,"['Nihon Ad Systems', 'Kodansha', 'Movic', 'KlockWorx', 'Sony Music Entertainment', 'King Records', 'BS11', 'Animatic', 'Marui Group']",Funimation,Studio Gokumi,manga,"['Comedy', 'Romance']",School,Shounen,12 min. per ep.,PG-13 - Teens 13 or older,2610
+
+Eromanga-sensei,7414,6.37,262,680172,TV,12,Finished Airing,"Apr 9, 2017 to Jun 25, 2017",Spring 2017,"['Aniplex', 'Movic', 'ASCII Media Works', 'BS11', 'Kinoshita Group Holdings']",Aniplex of America,A-1 Pictures,novel,"['Comedy', 'Drama', 'Romance', 'Ecchi']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,2674
+
+Hellsing,1750,7.49,263,679297,TV,13,Finished Airing,"Oct 11, 2001 to Jan 17, 2002",Fall 2001,"['Fuji TV', 'Pioneer LDC']",Funimation,Gonzo,Manga,"['Action', 'Horror', 'Supernatural']",nan,Seinen,23 min. per ep.,R - 17+ (violence & profanity),5758
+
+Nanatsu no Taizai: Seisen no Shirushi,4107,6.99,264,674220,TV,4,Finished Airing,"Aug 28, 2016 to Sep 18, 2016",Summer 2016,"['Aniplex', 'Dentsu', 'Kodansha', 'Movic']",add some,A-1 Pictures,Manga,"['Action', 'Adventure', 'Fantasy']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,783
+
+Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,622,7.97,265,673087,TV,12,Finished Airing,"Apr 9, 2018 to Jun 25, 2018",Spring 2018,['Shueisha'],Sentai Filmworks,J.C.Staff,Manga,"['Gourmet', 'Ecchi']",School,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,1397
+
+Rokudenashi Majutsu Koushi to Akashic Records,3394,7.14,266,671988,TV,12,Finished Airing,"Apr 4, 2017 to Jun 20, 2017",Spring 2017,"['Media Factory', 'AT-X', 'Kadokawa Pictures Japan', 'Ultra Super Pictures', 'Tohokushinsha Film Corporation', 'Sony Music Communications', 'Fujimi Shobo', 'Kanetsu Investment']",Funimation,LIDENFILMS,novel,"['Action', 'Fantasy']",School,nan,24 min. per ep.,R - 17+ (violence & profanity),3128
+
+Nanatsu no Taizai: Kamigami no Gekirin,6907,6.45,267,670859,TV,24,Finished Airing,"Oct 9, 2019 to Mar 25, 2020",Fall 2019,"['TV Tokyo', 'VAP', 'Dentsu', 'Kodansha', 'Movic', 'Sammy']",add some,Studio Deen,Manga,"['Action', 'Adventure', 'Fantasy']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,1349
+
+91 Days,846,7.83,268,666466,TV,12,Finished Airing,"Jul 9, 2016 to Oct 1, 2016",Summer 2016,"['Shochiku', 'Mainichi Broadcasting System', 'Shochiku Music Publishing']",Funimation,Shuka,Original,"['Action', 'Drama']",nan,nan,24 min. per ep.,R - 17+ (violence & profanity),7526
+
+Isekai Maou to Shoukan Shoujo no Dorei Majutsu,4675,6.87,269,666072,TV,12,Finished Airing,"Jul 5, 2018 to Sep 20, 2018",Summer 2018,"['Sotsu', 'Kodansha', 'Half H.P Studio', 'AT-X', 'KlockWorx', 'DIVE II Entertainment', '81 Produce', 'Tokyo MX', 'Avex Pictures', 'Q-Tec', 'Animatic', 'Eswood']",Funimation,Ajia-Do,novel,"['Comedy', 'Fantasy', 'Ecchi']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,2431
+
+Tate no Yuusha no Nariagari Season 2,6301,6.56,270,663087,TV,13,Finished Airing,"Apr 6, 2022 to Jun 29, 2022",Spring 2022,"['Frontier Works', 'AT-X', 'Nippon Columbia', 'Glovision', 'Good Smile Company', 'Sammy', 'Crunchyroll', 'Kadokawa Media House', 'NTT Plala', 'Kadokawa']",add some,Kinema Citrus,novel,"['Action', 'Adventure', 'Drama', 'Fantasy']",Isekai,nan,23 min. per ep.,PG-13 - Teens 13 or older,12379
+
+D.Gray-man,553,8.02,271,662789,TV,103,Finished Airing,"Oct 3, 2006 to Sep 30, 2008",Fall 2006,"['TV Tokyo', 'Aniplex', 'Dentsu', 'Half H.P Studio', 'Sony Music Entertainment', 'Studio Jack']",Funimation,TMS Entertainment,Manga,"['Action', 'Adventure', 'Comedy']",nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,13475
+
+Ore no Imouto ga Konnani Kawaii Wake ga Nai,4162,6.98,272,659556,TV,12,Finished Airing,"Oct 3, 2010 to Dec 19, 2010",Fall 2010,"['Aniplex', 'AIC', 'Movic', 'ASCII Media Works', 'Jumondo']",Aniplex of America,AIC Build,novel,[],Otaku Culture,nan,24 min. per ep.,PG-13 - Teens 13 or older,4402
+
+Nisekoi:,2293,7.35,273,657724,TV,12,Finished Airing,"Apr 10, 2015 to Jun 26, 2015",Spring 2015,"['Aniplex', 'Shueisha']",Aniplex of America,Shaft,Manga,"['Comedy', 'Romance']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,1796
+
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan,189,8.37,274,657484,TV,12,Finished Airing,"Jul 10, 2020 to Sep 25, 2020",Summer 2020,"['Marvelous', 'TBS', 'Movic', 'Delfi Sound', 'NBCUniversal Entertainment Japan']",Sentai Filmworks,feel.,novel,"['Comedy', 'Romance']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,13225
+
+Blood Lad,2769,7.26,275,657021,TV,10,Finished Airing,"Jul 8, 2013 to Sep 9, 2013",Summer 2013,"['Kadokawa Shoten', 'KlockWorx', 'flying DOG']",VIZ Media,Brain's Base,Manga,"['Action', 'Comedy', 'Supernatural']",nan,Seinen,24 min. per ep.,PG-13 - Teens 13 or older,2001
+
+Rosario to Vampire,5202,6.76,276,653817,TV,13,Finished Airing,"Jan 3, 2008 to Mar 27, 2008",Winter 2008,"['GDH', 'Yomiko Advertising', 'Happinet Pictures', 'Atelier Musa', 'Shueisha', 'Sotsu Music Publishing', 'Imagine']",Funimation,Gonzo,Manga,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",nan,Shounen,25 min. per ep.,R+ - Mild Nudity,3372
+
+Himouto! Umaru-chan,3491,7.12,277,652902,TV,12,Finished Airing,"Jul 9, 2015 to Sep 24, 2015",Summer 2015,"['AT-X', 'TOHO animation', 'Good Smile Company', 'Shueisha', 'BS11', 'Jinnan Studio', 'RAY']",Sentai Filmworks,Doga Kobo,Manga,[],nan,Seinen,24 min. per ep.,PG-13 - Teens 13 or older,4349
+
+Spy x Family Part 2,195,8.37,278,652442,TV,13,Finished Airing,"Oct 1, 2022 to Dec 24, 2022",Fall 2022,"['TV Tokyo', 'Shogakukan-Shueisha Productions', 'TOHO animation', 'Shueisha']",add some,Wit Studio,Manga,"['Action', 'Comedy']",Childcare,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,6122
+
+K-On!!,380,8.17,279,652195,TV,26,Finished Airing,"Apr 7, 2010 to Sep 29, 2010",Spring 2010,"['Pony Canyon', 'TBS', 'Movic', 'Rakuonsha', 'Animation Do']",Sentai Filmworks,Kyoto Animation,manga,"['Award Winning', 'Comedy']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,14079
+
+Tonikaku Kawaii,721,7.90,280,651561,TV,12,Finished Airing,"Oct 3, 2020 to Dec 19, 2020",Fall 2020,"['Shogakukan-Shueisha Productions', 'Warner Bros. Japan', 'KlockWorx', 'Shogakukan', 'Crunchyroll SC Anime Fund']",Crunchyroll,Seven Arcs,Manga,"['Comedy', 'Romance']",nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,9464
+
+Kuzu no Honkai,3296,7.16,281,640626,TV,12,Finished Airing,"Jan 13, 2017 to Mar 31, 2017",Winter 2017,"['Aniplex', 'Dentsu', 'Square Enix', 'Studio Hibari', 'Fuji TV', 'Kyoraku Industrial Holdings', 'Kansai Telecasting']",Sentai Filmworks,Lerche,Manga,"['Drama', 'Romance']",nan,Seinen,22 min. per ep.,R+ - Mild Nudity,6119
+
+Claymore,1040,7.74,282,639229,TV,26,Finished Airing,"Apr 4, 2007 to Sep 26, 2007",Spring 2007,"['VAP', 'Avex Entertainment', 'Nippon Television Network', 'D.N. Dream Partners']",Funimation,Madhouse,Manga,"['Action', 'Adventure', 'Fantasy']",nan,Shounen,23 min. per ep.,R+ - Mild Nudity,8122
+
+Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,80,8.61,283,638774,Movie,1,Finished Airing,"Jun 15, 2019",nan,"['Aniplex', 'Tokyo MX', 'Hakuhodo DY Music & Pictures', 'Nagoya Broadcasting Network', 'BS11', 'ABC Animation', 'Kadokawa']",Aniplex of America,CloverWorks,novel,"['Drama', 'Romance', 'Supernatural']",School,nan,1 hr. 30 min.,PG-13 - Teens 13 or older,9671
+
+3-gatsu no Lion,176,8.39,284,637463,TV,22,Finished Airing,"Oct 8, 2016 to Mar 18, 2017",Fall 2016,"['Aniplex', 'Dentsu', 'NHK', 'Hakusensha', 'Asmik Ace', ""Toy's Factory""]",Aniplex of America,Shaft,Manga,"['Drama', 'Slice of Life']",nan,Seinen,25 min. per ep.,PG-13 - Teens 13 or older,14844
+
+Shinmai Maou no Testament,5392,6.72,285,637391,TV,12,Finished Airing,"Jan 8, 2015 to Mar 26, 2015",Winter 2015,"['Kadokawa Shoten', 'AT-X', 'Nippon Columbia', 'Kadokawa Pictures Japan', 'KlockWorx', 'Mobcast']",Funimation,Production IMS,novel,"['Action', 'Fantasy', 'Romance', 'Ecchi']",nan,nan,23 min. per ep.,R+ - Mild Nudity,1938
+
+Tensei shitara Slime Datta Ken 2nd Season Part 2,229,8.32,286,636767,TV,12,Finished Airing,"Jul 6, 2021 to Sep 21, 2021",Summer 2021,"['Kodansha', 'BS11', 'Bandai Namco Arts', 'Micro Magazine Publishing', 'Bandai Spirits', 'Sony Music Solutions', 'ADK Marketing Solutions']",add some,8bit,Manga,"['Action', 'Adventure', 'Comedy', 'Fantasy']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,10139
+
+Yuu Yuu Hakusho,145,8.45,287,636632,TV,112,Finished Airing,"Oct 10, 1992 to Jan 7, 1995",Fall 1992,"['Yomiko Advertising', 'Fuji TV']",Funimation,Pierrot,Manga,"['Action', 'Comedy', 'Supernatural']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,21129
+
+5-toubun no Hanayome 2,470,8.09,288,635190,TV,12,Finished Airing,"Jan 8, 2021 to Mar 26, 2021",Winter 2021,"['Pony Canyon', 'Kodansha', 'DAX Production', 'BS11', 'Nichion', 'GYAO!', 'Good Smile Film', 'MAGNET']",add some,Bibury Animation Studios,Manga,"['Comedy', 'Romance']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,11155
+
+Monogatari Series: Second Season,36,8.77,289,634933,TV,26,Finished Airing,"Jul 7, 2013 to Dec 29, 2013",Summer 2013,"['Aniplex', 'Kodansha', 'Cyclone Graphics']",Aniplex of America,Shaft,novel,"['Comedy', 'Mystery', 'Romance', 'Supernatural']",Vampire,nan,25 min. per ep.,R - 17+ (violence & profanity),22843
+
+86,263,8.27,290,634914,TV,11,Finished Airing,"Apr 11, 2021 to Jun 20, 2021",Spring 2021,"['Aniplex', 'Kadokawa', 'Bandai Spirits']",add some,A-1 Pictures,novel,"['Action', 'Drama', 'Sci-Fi']",nan,nan,23 min. per ep.,R - 17+ (violence & profanity),15210
+
+School Days,11528,5.53,291,632415,TV,12,Finished Airing,"Jul 4, 2007 to Sep 27, 2007",Summer 2007,"['Avex Entertainment', 'Marvelous', 'Lantis', 'Pony Canyon']",Discotek Media,TNK,novel,"['Drama', 'Romance']",nan,nan,24 min. per ep.,R+ - Mild Nudity,3108
+
+Ore Monogatari!!,713,7.91,292,627880,TV,24,Finished Airing,"Apr 9, 2015 to Sep 24, 2015",Spring 2015,"['VAP', 'Nippon Television Network', 'Shueisha']",Sentai Filmworks,Madhouse,Manga,"['Comedy', 'Romance']",nan,Shoujo,22 min. per ep.,PG-13 - Teens 13 or older,4779
+
+Akagami no Shirayuki-hime,998,7.76,293,626679,TV,12,Finished Airing,"Jul 7, 2015 to Sep 22, 2015",Summer 2015,"['Hakusensha', 'Warner Bros. Japan', 'KlockWorx', 'Showgate']",Funimation,Bones,Manga,"['Drama', 'Fantasy', 'Romance']",nan,Shoujo,24 min. per ep.,PG-13 - Teens 13 or older,7051
+
+Gakusen Toshi Asterisk,4836,6.83,294,626363,TV,12,Finished Airing,"Oct 3, 2015 to Dec 19, 2015",Fall 2015,"['Aniplex', 'Animax', 'Movic', 'DAX Production', 'flying DOG', 'Bandai Namco Entertainment', 'Asahi Broadcasting']",Aniplex of America,A-1 Pictures,novel,"['Action', 'Comedy', 'Fantasy', 'Romance', 'Sci-Fi', 'Ecchi']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,2158
+
+Jujutsu Kaisen 0 Movie,131,8.49,295,624999,Movie,1,Finished Airing,"Dec 24, 2021",nan,"['Mainichi Broadcasting System', 'TOHO animation', 'Shueisha', 'Sumzap', 'Studio Easter']",Crunchyroll,MAPPA,Manga,"['Action', 'Fantasy']",School,Shounen,1 hr. 44 min.,R - 17+ (violence & profanity),8245
+
+Barakamon,183,8.38,296,624734,TV,12,Finished Airing,"Jul 6, 2014 to Sep 28, 2014",Summer 2014,"['VAP', 'Nippon Television Network']",Funimation,Kinema Citrus,manga,[],nan,nan,22 min. per ep.,PG-13 - Teens 13 or older,12383
+
+Arifureta Shokugyou de Sekai Saikyou,5567,6.69,297,624542,TV,13,Finished Airing,"Jul 8, 2019 to Oct 7, 2019",Summer 2019,"['AT-X', 'Sony Music Communications', 'Bushiroad', 'Toranoana', 'Hakuhodo DY Music & Pictures', 'Overlap', 'FuRyu', 'Bandai Namco Arts']",Funimation,asread.,novel,"['Action', 'Adventure', 'Fantasy']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,5974
+
+Amagi Brilliant Park,1828,7.47,298,622495,TV,13,Finished Airing,"Oct 7, 2014 to Dec 26, 2014",Fall 2014,"['Avex Entertainment', 'TBS', 'DAX Production', 'flying DOG', 'Mobcast']",Sentai Filmworks,Kyoto Animation,novel,"['Comedy', 'Fantasy']",Workplace,nan,24 min. per ep.,PG-13 - Teens 13 or older,2533
+
+Blend S,2637,7.28,299,621638,TV,12,Finished Airing,"Oct 8, 2017 to Dec 24, 2017",Fall 2017,"['Aniplex', 'Houbunsha', 'Kansai Telecasting', 'Lawson', 'Contents Seed', 'Kinoshita Group Holdings', 'Drecom']",Aniplex of America,A-1 Pictures,manga,[],nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,2893
+
+Perfect Blue,108,8.53,300,621027,Movie,1,Finished Airing,"Feb 28, 1998",nan,"['Rex Entertainment', 'ONIRO']",GKIDS,Madhouse,Novel,"['Avant Garde', 'Drama', 'Horror']",nan,nan,1 hr. 21 min.,R+ - Mild Nudity,16772
+
+Saenai Heroine no Sodatekata,1770,7.49,301,620592,TV,12,Finished Airing,"Jan 16, 2015 to Mar 27, 2015",Winter 2015,"['Aniplex', 'Dentsu', 'Fuji TV', 'Half H.P Studio', 'Cospa', 'Fujipacific Music', 'Good Smile Company', 'Kyoraku Industrial Holdings', 'Kansai Telecasting', 'Fujimi Shobo']",Aniplex of America,A-1 Pictures,novel,"['Comedy', 'Romance', 'Ecchi']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,4157
+
+Psycho-Pass 2,2109,7.40,302,620016,TV,11,Finished Airing,"Oct 10, 2014 to Dec 19, 2014",Fall 2014,"['Production I.G', 'Dentsu', 'Fuji TV', 'Nitroplus', 'Sony Music Entertainment', 'TOHO animation', 'Kyoraku Industrial Holdings']",Funimation,Tatsunoko Production,Original,"['Action', 'Sci-Fi', 'Suspense']",nan,nan,23 min. per ep.,R - 17+ (violence & profanity),1443
+
+Lucky Star,1050,7.74,303,619729,TV,24,Finished Airing,"Apr 8, 2007 to Sep 17, 2007",Spring 2007,"['Lantis', 'Rakuonsha', 'Lucky Paradise']",Funimation,Kyoto Animation,manga,[],nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,11564
+
+Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,4059,7.00,304,619318,TV,12,Finished Airing,"Jul 9, 2013 to Sep 24, 2013",Summer 2013,"['TV Tokyo', 'Media Factory', 'MediaNet', 'AT-X', 'DAX Production', 'Sony Music Communications', 'Bushiroad', 'Good Smile Company', 'NichiNare']",Sentai Filmworks,SILVER LINK.,manga,[],nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,5252
+
+Suki tte Ii na yo.,2036,7.42,305,619301,TV,13,Finished Airing,"Oct 7, 2012 to Dec 30, 2012",Fall 2012,"['Starchild Records', 'Kodansha', 'Magic Capsule', 'Yomiuri Advertising', 'GANSIS']",Sentai Filmworks,Zexcs,Manga,"['Drama', 'Romance']",School,Shoujo,24 min. per ep.,PG-13 - Teens 13 or older,4691
+
+Hotaru no Haka,122,8.51,306,616443,Movie,1,Finished Airing,"Apr 16, 1988",nan,['add some'],ADV Films,Studio Ghibli,Novel,[],Historical,nan,1 hr. 28 min.,PG-13 - Teens 13 or older,7316
+
+Strike the Blood,3836,7.05,307,613236,TV,24,Finished Airing,"Oct 4, 2013 to Mar 28, 2014",Fall 2013,"['Movic', 'AT-X', 'Warner Bros. Japan', 'KlockWorx', 'ASCII Media Works', 'Showgate']",Discotek Media,SILVER LINK.,novel,"['Action', 'Fantasy', 'Supernatural', 'Ecchi']",nan,nan,24 min. per ep.,R+ - Mild Nudity,2205
+
+Gamers!,5122,6.77,308,612953,TV,12,Finished Airing,"Jul 13, 2017 to Sep 28, 2017",Summer 2017,"['Sony Pictures Entertainment', 'Frontier Works', 'Sotsu', 'Kadokawa Shoten', 'AT-X', 'NBCUniversal Entertainment Japan', 'Tokyo MX', 'i0+', 'Chugai Mining', 'BS11']",Funimation,Pine Jam,novel,"['Comedy', 'Romance']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,2085
+
+Satsuriku no Tenshi,4222,6.96,309,612316,TV,16,Finished Airing,"Jul 6, 2018 to Oct 26, 2018",Summer 2018,"['Lantis', 'AT-X', 'Kadokawa']",Funimation,J.C.Staff,Game,"['Adventure', 'Horror', 'Suspense']",nan,nan,23 min. per ep.,R - 17+ (violence & profanity),5193
+
+IS: Infinite Stratos,5848,6.64,310,611631,TV,12,Finished Airing,"Jan 7, 2011 to Apr 1, 2011",Winter 2011,"['Lantis', 'Media Factory', 'TBS', 'Sony Music Communications', 'Sakura Create']",Sentai Filmworks,8bit,novel,"['Action', 'Comedy', 'Sci-Fi', 'Ecchi']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,2234
+
+Baka to Test to Shoukanjuu,1631,7.53,311,611517,TV,13,Finished Airing,"Jan 7, 2010 to Apr 1, 2010",Winter 2010,"['Lantis', 'Media Factory', 'Cospa', 'T.O Entertainment']",Funimation,SILVER LINK.,novel,"['Comedy', 'Romance']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,5527
+
+Hataraku Saibou,1521,7.56,312,610287,TV,13,Finished Airing,"Jul 8, 2018 to Sep 30, 2018",Summer 2018,"['Aniplex', 'Kodansha', 'Magic Capsule']",Aniplex of America,David Production,Manga,[],nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,2210
+
+To LOVE-Ru,4117,6.99,313,607939,TV,26,Finished Airing,"Apr 4, 2008 to Sep 26, 2008",Spring 2008,"['Geneon Universal Entertainment', 'TBS', 'Shueisha']",Sentai Filmworks,Xebec,Manga,"['Comedy', 'Romance', 'Sci-Fi', 'Ecchi']",nan,Shounen,24 min. per ep.,R+ - Mild Nudity,4017
+
+Kamisama Hajimemashita,475,8.09,314,604493,TV,13,Finished Airing,"Oct 2, 2012 to Dec 25, 2012",Fall 2012,"['TV Tokyo', 'Dentsu', 'Sotsu', 'Pony Canyon', 'Hakusensha', 'DAX Production']",Funimation,TMS Entertainment,Manga,"['Comedy', 'Fantasy', 'Romance']",Mythology,Shoujo,24 min. per ep.,PG-13 - Teens 13 or older,13827
+
+Ergo Proxy,725,7.90,315,604048,TV,23,Finished Airing,"Feb 25, 2006 to Aug 12, 2006",Winter 2006,"['Geneon Universal Entertainment', 'WOWOW', 'Sakura Create']",Funimation,Manglobe,Original,"['Mystery', 'Sci-Fi']",Psychological,nan,25 min. per ep.,R - 17+ (violence & profanity),12619
+
+Kore wa Zombie desu ka?,2287,7.35,316,603590,TV,12,Finished Airing,"Jan 11, 2011 to Mar 30, 2011",Winter 2011,"['Kadokawa Shoten', 'AT-X', 'Kadokawa Pictures Japan', 'KlockWorx', 'flying DOG']",Funimation,Studio Deen,novel,"['Action', 'Comedy', 'Supernatural', 'Ecchi']",Harem,nan,24 min. per ep.,R - 17+ (violence & profanity),3093
+
+Rokka no Yuusha,2681,7.28,317,602902,TV,12,Finished Airing,"Jul 5, 2015 to Sep 20, 2015",Summer 2015,['Pony Canyon'],Ponycan USA,Passione,novel,"['Action', 'Adventure', 'Fantasy', 'Mystery']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,2558
+
+Little Witch Academia (TV),883,7.82,318,602751,TV,25,Finished Airing,"Jan 9, 2017 to Jun 26, 2017",Winter 2017,"['Ultra Super Pictures', 'TOHO animation', 'Good Smile Company']",add some,Trigger,Original,"['Adventure', 'Comedy', 'Fantasy']",School,nan,24 min. per ep.,G - All Ages,7145
+
+Kami nomi zo Shiru Sekai,1225,7.67,319,600629,TV,12,Finished Airing,"Oct 7, 2010 to Dec 23, 2010",Fall 2010,"['TV Tokyo', 'Geneon Universal Entertainment']",Sentai Filmworks,Manglobe,Manga,"['Comedy', 'Romance', 'Supernatural']",nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,5604
+
+Date A Live II,3131,7.19,320,600455,TV,10,Finished Airing,"Apr 12, 2014 to Jun 14, 2014",Spring 2014,"['Kadokawa Shoten', 'AT-X', 'Nippon Columbia']",Funimation,Production IMS,novel,"['Comedy', 'Romance', 'Sci-Fi']",nan,nan,28 min. per ep.,R - 17+ (violence & profanity),2158
+
+Inuyashiki,1263,7.65,321,597898,TV,11,Finished Airing,"Oct 13, 2017 to Dec 22, 2017",Fall 2017,"['Aniplex', 'Dentsu', 'Kodansha', 'Fuji TV', 'DMM pictures']",add some,MAPPA,Manga,"['Action', 'Drama', 'Sci-Fi']",nan,Seinen,22 min. per ep.,R - 17+ (violence & profanity),3562
+
+Nana,107,8.53,322,595806,TV,47,Finished Airing,"Apr 5, 2006 to Mar 28, 2007",Spring 2006,"['VAP', 'Nippon Television Network', 'Shueisha']",VIZ Media,Madhouse,Manga,"['Drama', 'Romance']",nan,Shoujo,23 min. per ep.,R+ - Mild Nudity,25950
+
+Dragon Ball GT,6809,6.47,323,594417,TV,64,Finished Airing,"Feb 7, 1996 to Nov 19, 1997",Winter 1996,['Fuji TV'],Funimation,Toei Animation,Manga,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi']",Super Power,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,1867
+
+Pokemon,2222,7.37,324,593895,TV,276,Finished Airing,"Apr 1, 1997 to Nov 14, 2002",Spring 1997,"['TV Tokyo', 'TV Tokyo Music', 'Studio Jack']",VIZ Media,OLM,Game,"['Action', 'Adventure', 'Comedy', 'Fantasy']",nan,Kids,24 min. per ep.,PG - Children,4965
+
+Bakuman.,351,8.19,325,591995,TV,25,Finished Airing,"Oct 2, 2010 to Apr 2, 2011",Fall 2010,"['NHK', 'Shueisha']",Media Blasters,J.C.Staff,Manga,"['Comedy', 'Drama', 'Romance']",Otaku Culture,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,9264
+
+Great Pretender,301,8.24,326,589172,TV,23,Finished Airing,"Jul 9, 2020 to Dec 17, 2020",Summer 2020,"['Production I.G', 'Fuji TV', 'BS Fuji', 'TOHO animation', 'Hakuhodo DY Media Partners']",add some,Wit Studio,Original,"['Action', 'Adventure', 'Mystery']",Adult Cast,nan,23 min. per ep.,R - 17+ (violence & profanity),9208
+
+Koukaku Kidoutai,271,8.27,327,586571,Movie,1,Finished Airing,"Nov 18, 1995",nan,"['Bandai Visual', 'Kodansha']",Manga Entertainment,Production I.G,Manga,"['Action', 'Award Winning', 'Mystery', 'Sci-Fi', 'Suspense']",nan,Seinen,1 hr. 22 min.,R+ - Mild Nudity,11915
+
+Log Horizon 2nd Season,1430,7.58,328,584006,TV,25,Finished Airing,"Oct 4, 2014 to Mar 28, 2015",Fall 2014,['NHK'],Funimation,Studio Deen,novel,"['Action', 'Adventure', 'Fantasy']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,1386
+
+Kenpuu Denki Berserk,99,8.55,329,583599,TV,25,Finished Airing,"Oct 8, 1997 to Apr 1, 1998",Fall 1997,"['VAP', 'Hakusensha', 'Nippon Television Network']",Media Blasters,OLM,Manga,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror']",nan,Seinen,25 min. per ep.,R+ - Mild Nudity,24224
+
+Saiki Kusuo no Psi-nan 2,157,8.43,330,583201,TV,24,Finished Airing,"Jan 17, 2018 to Jun 27, 2018",Winter 2018,"['TV Tokyo', 'Shogakukan-Shueisha Productions', 'Nippon Columbia', 'KlockWorx', 'Asmik Ace', 'Bandai Namco Entertainment', 'Shueisha', ""Toy's Factory"", 'Dear Stage inc.']",add some,J.C.Staff,Manga,"['Comedy', 'Supernatural']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,3974
+
+Sankarea,2590,7.29,331,581625,TV,12,Finished Airing,"Apr 6, 2012 to Jun 29, 2012",Spring 2012,"['Lantis', 'Pony Canyon', 'TBS', 'Kodansha', 'BS-TBS']",Funimation,Studio Deen,Manga,"['Comedy', 'Horror', 'Romance', 'Supernatural', 'Ecchi']",nan,Shounen,24 min. per ep.,R+ - Mild Nudity,2551
+
+Grisaia no Kajitsu,1747,7.49,332,580948,TV,13,Finished Airing,"Oct 5, 2014 to Dec 28, 2014",Fall 2014,"['Frontier Works', 'AT-X', 'Bushiroad', 'NBCUniversal Entertainment Japan', 'Front Wing']",Sentai Filmworks,8bit,novel,"['Drama', 'Romance']",nan,nan,23 min. per ep.,R+ - Mild Nudity,4266
+
+Suzumiya Haruhi no Shoushitsu,81,8.61,333,579634,Movie,1,Finished Airing,"Feb 6, 2010",nan,"['Kadokawa Shoten', 'Animation Do']",Funimation,Kyoto Animation,novel,"['Award Winning', 'Mystery', 'Sci-Fi', 'Supernatural']",School,nan,2 hr. 41 min.,PG-13 - Teens 13 or older,13008
+
+Toaru Kagaku no Railgun,1211,7.67,334,578240,TV,24,Finished Airing,"Oct 3, 2009 to Mar 20, 2010",Fall 2009,"['Geneon Universal Entertainment', 'Movic', 'AT-X', 'ASCII Media Works']",Funimation,J.C.Staff,Manga,"['Action', 'Sci-Fi']",Super Power,nan,24 min. per ep.,PG-13 - Teens 13 or older,5741
+
+Vampire Knight,4566,6.89,335,577356,TV,13,Finished Airing,"Apr 8, 2008 to Jul 1, 2008",Spring 2008,"['TV Tokyo', 'Aniplex', 'Nihon Ad Systems']",VIZ Media,Studio Deen,Manga,"['Drama', 'Mystery', 'Romance', 'Supernatural']",nan,Shoujo,24 min. per ep.,PG-13 - Teens 13 or older,7224
+
+Nagi no Asu kara,603,7.98,336,575861,TV,26,Finished Airing,"Oct 3, 2013 to Apr 3, 2014",Fall 2013,"['Geneon Universal Entertainment', 'Sotsu', 'Animax', 'Rondo Robe', 'Showgate', 'Infinite']","NIS America, Inc.",P.A. Works,Original,"['Drama', 'Fantasy', 'Romance']",Love Polygon,nan,23 min. per ep.,PG-13 - Teens 13 or older,9331
+
+Sword Art Online Alternative: Gun Gale Online,4098,7.00,337,575849,TV,12,Finished Airing,"Apr 8, 2018 to Jul 1, 2018",Spring 2018,"['Aniplex', 'Egg Firm']",Aniplex of America,Studio 3Hz,novel,[],nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,1438
+
+Zetsuen no Tempest,688,7.92,339,570931,TV,24,Finished Airing,"Oct 5, 2012 to Mar 29, 2013",Fall 2012,"['Aniplex', 'Dentsu', 'Square Enix', 'Mainichi Broadcasting System', 'Yahoo! Japan']",Aniplex of America,Bones,Manga,"['Action', 'Drama', 'Fantasy', 'Mystery']",Psychological,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,6431
+
+Shiki,1052,7.74,340,568597,TV,22,Finished Airing,"Jul 9, 2010 to Dec 31, 2010",Summer 2010,"['Aniplex', 'Dentsu', 'Fuji TV', 'DAX Production', 'Shueisha']",Funimation,Daume,Manga,"['Horror', 'Mystery', 'Supernatural', 'Suspense']",nan,Shounen,22 min. per ep.,R - 17+ (violence & profanity),7967
+
+Beelzebub,785,7.86,341,568086,TV,60,Finished Airing,"Jan 9, 2011 to Mar 25, 2012",Winter 2011,"['Pierrot', 'Dentsu', 'Yomiuri Telecasting', 'Shueisha']",Discotek Media,Pierrot Plus,Manga,"['Action', 'Comedy', 'Supernatural']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,5208
+
+Shokugeki no Souma: Shin no Sara,1031,7.75,342,566374,TV,12,Finished Airing,"Oct 12, 2019 to Dec 28, 2019",Fall 2019,"['Warner Bros. Japan', 'KlockWorx', 'Shueisha', 'Bandai Namco Arts']",Sentai Filmworks,J.C.Staff,Manga,"['Gourmet', 'Ecchi']",School,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,1312
+
+Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru,1774,7.49,343,559448,TV,12,Finished Airing,"Oct 2, 2019 to Dec 27, 2019",Fall 2019,"['AT-X', 'Kadokawa Media House', 'Kadokawa', 'Legs']",Funimation,White Fox,novel,"['Action', 'Adventure', 'Comedy', 'Fantasy']",nan,nan,23 min. per ep.,R - 17+ (violence & profanity),2018
+
+Ajin,2082,7.40,344,559074,TV,13,Finished Airing,"Jan 16, 2016 to Apr 9, 2016",Winter 2016,"['Mainichi Broadcasting System', 'Kodansha', 'KlockWorx', 'Sony Music Communications', 'TOHO animation', 'King Records']",Sentai Filmworks,Polygon Pictures,Manga,"['Action', 'Horror', 'Mystery', 'Supernatural']",Gore,Seinen,24 min. per ep.,R - 17+ (violence & profanity),3045
+
+Steins;Gate Movie: Fuka Ryouiki no Deja vu,144,8.45,345,558997,Movie,1,Finished Airing,"Apr 20, 2013",nan,"['Frontier Works', 'Media Factory', 'Movic', 'AT-X', 'Kadokawa Pictures Japan', 'MAGES.']",Funimation,White Fox,novel,"['Drama', 'Sci-Fi']",nan,nan,1 hr. 30 min.,PG-13 - Teens 13 or older,2485
+
+Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?,1864,7.46,346,557784,TV,10,Finished Airing,"Jan 12, 2013 to Mar 16, 2013",Winter 2013,"['Kadokawa Shoten', 'Nippon Columbia', 'flying DOG']",Sentai Filmworks,Diomedea,novel,"['Action', 'Comedy', 'Fantasy']",Isekai,nan,23 min. per ep.,PG-13 - Teens 13 or older,3661
+
+The Last: Naruto the Movie,945,7.79,347,557465,Movie,1,Finished Airing,"Dec 6, 2014",nan,"['TV Tokyo', 'Shueisha']",VIZ Media,Pierrot,Manga,"['Action', 'Adventure', 'Fantasy', 'Romance']",nan,Shounen,1 hr. 52 min.,PG-13 - Teens 13 or older,2027
+
+Kimetsu no Yaiba: Mugen Ressha-hen,185,8.38,348,556767,TV,7,Finished Airing,"Oct 10, 2021 to Nov 28, 2021",Fall 2021,"['Aniplex', 'Shueisha']",add some,ufotable,Manga,"['Action', 'Fantasy']",Historical,Shounen,24 min. per ep.,R - 17+ (violence & profanity),3603
+
+Hige wo Soru. Soshite Joshikousei wo Hirou.,2624,7.29,349,551396,TV,13,Finished Airing,"Apr 5, 2021 to Jun 28, 2021",Spring 2021,"['Toei Video', 'Pony Canyon', 'AT-X', 'Magic Capsule', 'KlockWorx', 'Hakuhodo DY Music & Pictures', 'BS11', 'Kadokawa', 'Yomiuri Shimbun', 'APDREAM', 'Dream Shift', 'Bergamo']",add some,Project No.9,novel,"['Drama', 'Romance']",nan,nan,23 min. per ep.,PG-13 - Teens 13 or older,5914
+
+Lovely Complex,534,8.03,350,551184,TV,24,Finished Airing,"Apr 7, 2007 to Sep 29, 2007",Spring 2007,"['TBS', 'TAP', 'Sony Music Entertainment', 'Shueisha', 'Nichion']",Discotek Media,Toei Animation,Manga,"['Comedy', 'Romance']",School,Shoujo,24 min. per ep.,PG-13 - Teens 13 or older,9539
+
+Kiss x Sis (TV),5935,6.62,351,551149,TV,12,Finished Airing,"Apr 5, 2010 to Jun 21, 2010",Spring 2010,"['Starchild Records', 'GANSIS']",add some,feel.,Manga,"['Comedy', 'Romance', 'Ecchi']",nan,Seinen,24 min. per ep.,PG-13 - Teens 13 or older,1750
+
+Hunter x Hunter,165,8.41,352,550351,TV,62,Finished Airing,"Oct 16, 1999 to Mar 31, 2001",Fall 1999,['Fuji TV'],VIZ Media,Nippon Animation,Manga,"['Action', 'Adventure', 'Fantasy']",nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,10204
+
+Karakai Jouzu no Takagi-san,1128,7.71,353,550013,TV,12,Finished Airing,"Jan 8, 2018 to Mar 26, 2018",Winter 2018,"['TMS Entertainment', 'Asatsu DK', 'Asmik Ace', 'TOHO animation', 'JR East Marketing & Communications']",Funimation,Shin-Ei Animation,Manga,[],nan,Shounen,23 min. per ep.,PG-13 - Teens 13 or older,4934
+
+Bungou Stray Dogs 3rd Season,311,8.22,354,549781,TV,12,Finished Airing,"Apr 12, 2019 to Jun 28, 2019",Spring 2019,"['WOWOW', 'Lantis', 'Movic', 'Bandai Namco Live Creative', 'Sony Music Entertainment', 'Glovision', 'Kadokawa Media House', 'Kadokawa', 'Bandai Namco Arts']",add some,Bones,Manga,"['Action', 'Mystery', 'Supernatural']",nan,Seinen,23 min. per ep.,R - 17+ (violence & profanity),4700
+
+Sword Art Online: Alicization - War of Underworld 2nd Season,1821,7.47,355,549621,TV,11,Finished Airing,"Jul 12, 2020 to Sep 20, 2020",Summer 2020,"['Aniplex', 'Bandai Namco Entertainment', 'Egg Firm', 'Straight Edge', 'Kadokawa']",Aniplex of America,A-1 Pictures,novel,"['Action', 'Adventure', 'Fantasy']",Video Game,nan,24 min. per ep.,R - 17+ (violence & profanity),3030
+
+Gangsta.,2073,7.41,356,544248,TV,12,Finished Airing,"Jul 2, 2015 to Sep 24, 2015",Summer 2015,"['Bandai Visual', 'Frontier Works', 'Lantis', 'DAX Production', 'Tokyo MX']",Funimation,Manglobe,Manga,"['Action', 'Drama']",nan,Seinen,23 min. per ep.,R - 17+ (violence & profanity),3537
+
+Higashi no Eden,1010,7.76,357,541462,TV,11,Finished Airing,"Apr 10, 2009 to Jun 19, 2009",Spring 2009,"['Dentsu', 'Fuji TV', 'Asmik Ace', 'Sony Music Entertainment']",Funimation,Production I.G,Original,"['Award Winning', 'Mystery', 'Romance', 'Sci-Fi', 'Suspense']",nan,nan,23 min. per ep.,R - 17+ (violence & profanity),4131
+
+Kuroshitsuji II,3350,7.15,358,538198,TV,12,Finished Airing,"Jul 2, 2010 to Sep 17, 2010",Summer 2010,"['Aniplex', 'Square Enix', 'Mainichi Broadcasting System']",Funimation,A-1 Pictures,Manga,"['Action', 'Comedy', 'Supernatural']",nan,Shounen,24 min. per ep.,R - 17+ (violence & profanity),3114
+
+Katekyo Hitman Reborn!,416,8.14,359,536311,TV,203,Finished Airing,"Oct 7, 2006 to Sep 25, 2010",Fall 2006,"['TV Tokyo', 'Dentsu', 'Marvelous', 'Pony Canyon', 'd-rights']",VIZ Media,Artland,Manga,"['Action', 'Comedy']",nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,15687
+
+Katanagatari,223,8.32,360,535615,TV,12,Finished Airing,"Jan 26, 2010 to Dec 11, 2010",Winter 2010,"['Aniplex', 'Lantis', 'Kodansha', 'Movic', 'Fuji TV']","NIS America, Inc.",White Fox,novel,"['Action', 'Adventure', 'Romance']",nan,nan,50 min. per ep.,R - 17+ (violence & profanity),10578
+
+Jibaku Shounen Hanako-kun,813,7.85,361,533001,TV,12,Finished Airing,"Jan 10, 2020 to Mar 27, 2020",Winter 2020,"['Square Enix', 'Studio Hibari', 'Pony Canyon', 'TBS', 'Half H.P Studio', 'Contents Seed']",Funimation,Lerche,Manga,[],nan,Shounen,24 min. per ep.,PG-13 - Teens 13 or older,11050
+
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III,1849,7.46,362,532275,TV,12,Finished Airing,"Oct 3, 2020 to Dec 19, 2020",Fall 2020,"['Movic', 'Warner Bros. Japan', 'KlockWorx', 'Hakuhodo DY Music & Pictures', 'Egg Firm', 'FuRyu', 'GREE', 'SB Creative']",Sentai Filmworks,J.C.Staff,novel,"['Action', 'Adventure', 'Fantasy']",nan,nan,24 min. per ep.,PG-13 - Teens 13 or older,1810
+
